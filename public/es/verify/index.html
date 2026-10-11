@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Compruébalo tú · Odds or Even</title>
+<meta name="description" content="Cada conjunto de líneas se guarda en un archivo en el momento en que lo publicamos. Tres cosas garantizan que nadie, tampoco nosotros, pueda cambiarlo desp">
+<link rel="canonical" href="https://oddsoreven.com/es/verify/">
+<link rel="alternate" hreflang="en" href="https://oddsoreven.com/verify/"><link rel="alternate" hreflang="it" href="https://oddsoreven.com/it/verify/"><link rel="alternate" hreflang="es" href="https://oddsoreven.com/es/verify/"><link rel="alternate" hreflang="x-default" href="https://oddsoreven.com/verify/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Odds or Even">
+<meta property="og:title" content="Compruébalo tú · Odds or Even">
+<meta property="og:description" content="Cada conjunto de líneas se guarda en un archivo en el momento en que lo publicamos. Tres cosas garantizan que nadie, tampoco nosotros, pueda cambiarlo desp">
+<meta property="og:url" content="https://oddsoreven.com/es/verify/">
+<meta property="og:image" content="https://oddsoreven.com/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OddsorEven">
+<meta name="theme-color" content="#5E2468">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="/assets/fonts/bricolage-grotesque-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<script defer src="/assets/site.js"></script>
+
+</head><body>
+<a class="skip" href="#main">Ir al contenido</a>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="/es/" aria-label="Odds or Even, Inicio"><svg class="coin" viewBox="0 0 64 64" aria-hidden="true"><path d="M12.2 51.8A28 28 0 0 1 51.8 12.2Z" class="fill-accent"/><circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="5"/></svg><span>Odds <em>or</em> Even</span></a>
+  <nav class="nav" aria-label="Main"><a href="/es/">Esta jornada</a><a href="/es/record/">El historial</a><a href="/es/verify/" aria-current="page">Verificar</a><a href="/es/about/">Quiénes somos</a></nav>
+  <div class="tools">
+    <div class="switch" role="group" aria-label="Formato de cuotas"><button type="button" data-fmt="dec" aria-pressed="true">Decimales</button><button type="button" data-fmt="us" aria-pressed="false">Americanas</button></div>
+    <div class="langs" aria-label="Idioma"><a href="/verify/" hreflang="en" lang="en">EN</a><a href="/it/verify/" hreflang="it" lang="it">IT</a><b>ES</b></div>
+  </div>
+</div></header>
+<main id="main" class="wrap"><article class="prose"><h1 class="h1">Compruébalo tú</h1><p>Cada conjunto de líneas se guarda en un archivo en el momento en que lo publicamos. Tres cosas garantizan que nadie, tampoco nosotros, pueda cambiarlo después.</p><p><b>1. El archivo es público.</b> Cada página de partido enlaza a su archivo en GitHub. Cada cambio en el repositorio queda registrado con su hora, en público.</p><p><b>2. Su huella se publica en X.</b> Cuando sale el archivo publicamos su huella SHA-256 en @OddsorEven. Cambia una sola cifra del archivo y la huella sale completamente distinta. Descarga el archivo y compruébalo: en Windows <code>certutil -hashfile file.json SHA256</code>; en Mac o Linux <code>shasum -a 256 file.json</code>. El resultado debe coincidir con la publicación y con la lista en <code>data/ledger.csv</code>.</p><p><b>3. Está anclado en Bitcoin.</b> Junto a cada archivo hay una prueba <code>.ots</code> de OpenTimestamps. Sube ambos a opentimestamps.org y muestra la hora en que el archivo existía, confirmada por la cadena de bloques de Bitcoin en pocas horas.</p><p>Las actualizaciones (lesiones, noticias de equipo) salen como archivos nuevos con su hora y su motivo. Nunca sobrescriben la línea original.</p></article></main>
+<footer class="foot"><div class="wrap foot-in">
+  <span class="foot-note"><svg class="linemark" viewBox="0 0 70 56" aria-hidden="true"><circle cx="16" cy="28" r="13" class="fill-accent"/><rect x="33" y="4" width="4" height="48" rx="2" fill="currentColor"/><circle cx="54" cy="28" r="11" fill="none" stroke="currentColor" stroke-width="4"/></svg>Con fines informativos y de entretenimiento, solo mayores de 18 años. Sin enlaces a casas de apuestas, sin pronósticos de pago.</span>
+  <span>[RAZÓN SOCIAL] · [DIRECCIÓN] · [N.º DE REGISTRO] · <a href="/es/privacy/">Privacidad</a> · <a href="/es/legal/">Aviso legal</a></span>
+</div></footer>
+</body>
+</html>
