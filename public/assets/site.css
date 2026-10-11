@@ -45,7 +45,8 @@ a{color:var(--accent-text)}a:hover{color:var(--dark)}
 .langs b{color:var(--on-dark)}
 
 /* headings */
-main{flex:1 0 auto;width:100%;padding-top:28px;padding-bottom:64px}
+main{flex:1 0 auto;width:100%}
+main.wrap{padding-top:36px;padding-bottom:64px}
 .pagehead{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px 24px}
 .h1{margin:0;font-weight:800;font-stretch:75%;font-size:clamp(40px,6vw,66px);line-height:.95;text-transform:uppercase}
 .h1 em{font-style:normal;color:var(--accent)}
@@ -146,3 +147,8 @@ main{flex:1 0 auto;width:100%;padding-top:28px;padding-bottom:64px}
   .brand span{font-size:26px}.tools{width:100%;justify-content:space-between}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.launch{margin:28px 0 18px;background:var(--dark);color:#fff;max-width:640px}
+.launch h2{margin:0 0 6px;font-stretch:75%;font-size:28px;text-transform:uppercase;letter-spacing:.01em}
+.launch p{margin:6px 0;color:#efe6f0}
+.btn{display:inline-block;margin-top:8px;background:var(--accent);color:var(--dark)!important;font-weight:700;text-decoration:none;padding:9px 18px;border-radius:999px}
+.btn:hover{background:var(--accent-soft)}
