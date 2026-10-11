@@ -140,6 +140,7 @@ main.wrap{padding-top:36px;padding-bottom:64px}
 .foot a{color:var(--accent-soft)}
 .foot-note{display:flex;align-items:center;gap:10px}
 .linemark{width:36px;height:25px;color:var(--on-dark);flex:none}
+.stroke-accent{stroke:var(--accent)}
 
 @media (max-width:600px){
   .after .trio{grid-template-columns:1fr}.t{font-size:13.5px}.t th,.t td{padding:8px 10px}
