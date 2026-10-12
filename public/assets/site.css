@@ -154,3 +154,5 @@ main.wrap{padding-top:36px;padding-bottom:64px}
 .launch p{margin:6px 0;color:#efe6f0}
 .btn{display:inline-block;margin-top:8px;background:var(--accent);color:var(--dark)!important;font-weight:700;text-decoration:none;padding:9px 18px;border-radius:999px}
 .btn:hover{background:var(--accent-soft)}
+.btns{display:flex;flex-wrap:wrap;gap:10px}.btn2{background:transparent;color:var(--on-dark)!important;border:2px solid var(--accent-soft)}.btn2:hover{background:rgba(255,255,255,.08)}
+.launch time{font-weight:600;color:var(--accent-soft)}
