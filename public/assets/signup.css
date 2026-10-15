@@ -1,0 +1,12 @@
+/* Odds or Even: founding-places sign-up (loaded only when the sign-up is switched on) */
+.found .places{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--accent-text);margin:0 0 12px}
+.found .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.found .ticks{flex:1 1 100%;display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;margin-top:4px}
+.found .ticks label{display:flex;align-items:center;gap:8px;min-height:32px;cursor:pointer}
+.found .ticks input{flex:none;width:20px;height:20px;min-height:0;padding:0;border-radius:4px;accent-color:var(--dark);margin:0}
+.found-msg[data-state="ok"]{color:var(--ink);font-weight:600}
+.found-msg[data-state="err"]{color:#A3261F;font-weight:600}
+.found-form button[aria-busy="true"]{opacity:.6;cursor:progress}
+.found.done .found-form{display:none}
+.leave-form{margin:8px 0 18px}
+.leave-form button{font:inherit;border:0;cursor:pointer}

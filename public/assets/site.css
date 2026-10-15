@@ -204,3 +204,7 @@ main.wrap{padding-top:36px;padding-bottom:64px}
 .newsbox{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px}
 .st{font-weight:700;font-size:13px}.st-out{color:#9C1C1C}.st-likely_out{color:var(--accent-text)}.st-doubtful{color:var(--muted)}
 @media (max-width:600px){.pline{font-size:36px}.pbig .pline{font-size:44px}}
+/* graded picks (13 Oct) */
+.pgraded{margin:10px 20px 0}
+.gchip{display:inline-block;font-weight:700;font-size:13px;padding:4px 12px;border-radius:999px;background:var(--card-2);color:var(--ink)}
+.gchip.g-W{background:#E3F0E6;color:#1F5A33}.gchip.g-L{background:#F6E1E1;color:#8A1F1F}.gchip.g-P{background:var(--card-2);color:var(--muted)}
