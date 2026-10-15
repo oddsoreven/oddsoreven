@@ -208,3 +208,17 @@ main.wrap{padding-top:36px;padding-bottom:64px}
 .pgraded{margin:10px 20px 0}
 .gchip{display:inline-block;font-weight:700;font-size:13px;padding:4px 12px;border-radius:999px;background:var(--card-2);color:var(--ink)}
 .gchip.g-W{background:#E3F0E6;color:#1F5A33}.gchip.g-L{background:#F6E1E1;color:#8A1F1F}.gchip.g-P{background:var(--card-2);color:var(--muted)}
+
+/* 16 Oct: result and expected close graded apart (split pill). Red = the bet lost; copper = the close was reached (a success). */
+.gsplit{display:inline-flex;align-items:stretch;border:1.5px solid #B9AFA6;border-radius:999px;overflow:hidden;font-size:13px;line-height:1.2;max-width:100%}
+.gsplit.is-reached{border-color:#E08A4E}
+.gs-res{padding:4px 12px;font-weight:800;background:var(--card-2);color:var(--ink)}
+.gs-res.g-W{background:#E3F0E6;color:#1F5A33}.gs-res.g-L{background:#F6E1E1;color:#8A1F1F}.gs-res.g-P{background:var(--card-2);color:var(--muted)}
+.gs-close{display:inline-flex;align-items:center;gap:5px;padding:4px 12px;font-weight:700;white-space:nowrap}
+.gsplit.is-reached .gs-close{background:#E08A4E;color:#17121C}
+.gsplit.not-reached .gs-close{color:#5A5160;background:transparent}
+.gsplit.not-reached .gs-res + .gs-close{border-left:1.5px dashed #B9AFA6}
+.gs-cell{display:inline-block;padding:1px 9px;border-radius:999px;font-weight:700}
+.gs-cell.is-reached{background:#E08A4E;color:#17121C}
+.gs-cell.not-reached{border:1.5px dashed #B9AFA6;color:#5A5160}
+@media (max-width:420px){.gsplit{font-size:12px}.gs-res,.gs-close{padding:4px 9px}}
