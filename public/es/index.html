@@ -20,6 +20,8 @@
 <link rel="preload" href="/assets/fonts/saira-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css?v=f24833502d">
 <script defer src="/assets/site.js?v=f24833502d"></script>
+<link rel="stylesheet" href="/assets/signup.css?v=6136cbf77d">
+<script defer src="/assets/signup.js?v=6136cbf77d"></script>
 
 </head><body>
 <a class="skip" href="#main">Ir al contenido</a>
@@ -204,7 +206,7 @@
   <div class="pfoot"><span class="pill">Bloqueado</span><span class="mono">b1f2…a46d</span><a href="/es/euroleague/2026-27/round-6/panathinaikos-vs-hapoel-tel-aviv/">Ficha completa →</a></div>
 </article><article class="pcard">
   <div class="pcard-top">
-    <div class="pcard-row"><span class="pcard-when"><time datetime="2026-10-16T18:30:00Z" data-utc="2026-10-16T18:30:00Z">vie 16 oct · 20:30 CEST</time></span><span class="ptag">PICK · Añadida después</span></div>
+    <div class="pcard-row"><span class="pcard-when"><time datetime="2026-10-16T18:30:00Z" data-utc="2026-10-16T18:30:00Z">vie 16 oct · 20:30 CEST</time></span><span class="ptag">PICK TARDÍO</span></div>
     <h3><a href="/es/euroleague/2026-27/round-6/barcelona-vs-olympiacos/">Barcelona <span class="v">v</span> Olympiacos</a></h3>
     <div class="pline">Total: Menos 177</div>
   </div>
@@ -232,13 +234,21 @@
     <div><div class="num accent">2–3</div><div class="sm">picks ganados–perdidos · −1,1 unidades a cuotas de Pinnacle</div></div>
     <div><div class="num">4/5</div><div class="sm">cierre esperado alcanzado</div></div>
     <div><div class="num">3/4</div><div class="sm">nuestra línea más cerca del cierre</div></div>
-  </div><p class="more"><a href="/es/record/">El resumen completo y el historial de la temporada →</a></p></div><div class="box sub"><h2>Cada jornada, por email</h2><p>Nuestras líneas cuando se bloquean, el resumen cuando se evalúa. Nada más.</p>
-  <form class="subform" action="#" method="post"><label for="sub-email" class="vh">Correo electrónico</label>
-  <input id="sub-email" type="email" placeholder="you@example.com" disabled><button type="submit" disabled>Suscribirme</button></form>
-  <p class="sm">El email de la jornada empieza pronto.</p></div></section></main>
+  </div><p class="more"><a href="/es/record/">El resumen completo y el historial de la temporada →</a></p></div><div class="box sub found join" id="founding"><h2>Únete a Odds or Even</h2><p>Cada pick de hándicap y totales de la EuroLeague, en nuestro canal privado de Telegram en cuanto se publica. 10 € al mes, cancela cuando quieras. Los primeros 100 miembros mantienen 10 € al mes para siempre.</p>
+  <p class="places" data-places data-src="/api/spots" data-left="Quedan {n} de 100 plazas" data-full="Las 100 plazas de miembro fundador están ocupadas. Aún puedes unirte por 10 € al mes.">Solo 100 plazas de miembro fundador.</p>
+  <form class="subform found-form join-form" action="/api/join" method="post" novalidate>
+  <input type="hidden" name="lang" value="es">
+  <div class="hp" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+  <label for="join-email" class="vh">Correo electrónico</label>
+  <input id="join-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+  <button type="submit">Unirme por 10 € al mes</button>
+  <div class="ticks"><label><input type="checkbox" name="adult" value="1" required><span>Tengo 18 años o más</span></label>
+  <label><input type="checkbox" name="agree" value="1" required><span>Acepto la <a href="/es/privacy/">nota de privacidad</a></span></label></div>
+  </form>
+  <p class="sm found-msg" role="status" aria-live="polite" data-invalid="Introduce un correo electrónico válido." data-consent="Marca las dos casillas." data-member="Este correo ya tiene una suscripción. El enlace de Telegram está en tu correo de bienvenida, o escribe a contact@oddsoreven.com." data-error="Algo ha fallado. Inténtalo de nuevo o escribe a contact@oddsoreven.com.">Pagas en la página segura de Stripe. Nunca vemos tu tarjeta.</p></div></section></main>
 <footer class="foot"><div class="wrap foot-in">
-  <span class="foot-note"><svg class="linemark" viewBox="0 0 92 64" aria-hidden="true"><g transform="translate(2 10) scale(1.2)" fill="none" stroke-width="7" stroke-linecap="round"><path class="stroke-accent" d="M5 6.5A15 15 0 1 1 5 29.5M11 18H27"/><ellipse cx="56.67" cy="18" rx="11.5" ry="14.5" stroke="currentColor"/></g><rect x="43" y="8" width="4" height="48" rx="2" fill="currentColor"/></svg>Con fines informativos y de entretenimiento, solo mayores de 18 años. Sin enlaces a casas de apuestas, sin tipsters de pago.</span>
-  <span><a href="https://x.com/OddsorEven" rel="me noopener">X</a> · <a href="https://t.me/oddsoreven" rel="me noopener">Telegram</a> · <a href="https://www.instagram.com/theoddsoreven/" rel="me noopener">Instagram</a> · Contacto: contact@oddsoreven.com · <a href="/es/privacy/">Privacidad</a> · <a href="/es/legal/">Aviso legal</a></span>
+  <span class="foot-note"><svg class="linemark" viewBox="0 0 92 64" aria-hidden="true"><g transform="translate(2 10) scale(1.2)" fill="none" stroke-width="7" stroke-linecap="round"><path class="stroke-accent" d="M5 6.5A15 15 0 1 1 5 29.5M11 18H27"/><ellipse cx="56.67" cy="18" rx="11.5" ry="14.5" stroke="currentColor"/></g><rect x="43" y="8" width="4" height="48" rx="2" fill="currentColor"/></svg>Con fines informativos y de entretenimiento, solo para mayores de 18 años. No promocionamos ninguna casa de apuestas ni incluimos enlaces a ellas. Los resultados nunca están garantizados: apuesta solo lo que puedas permitirte perder.</span>
+  <span><a href="https://x.com/OddsorEven" rel="me noopener">X</a> · <a href="https://t.me/oddsoreven" rel="me noopener">Telegram</a> · <a href="https://www.instagram.com/theoddsoreven/" rel="me noopener">Instagram</a> · Contacto: contact@oddsoreven.com · <a href="/es/help/">Ayuda</a> · <a href="/es/privacy/">Privacidad</a> · <a href="/es/legal/">Aviso legal</a></span>
 </div></footer>
 </body>
 </html>

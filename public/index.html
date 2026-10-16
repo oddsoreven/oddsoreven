@@ -20,6 +20,8 @@
 <link rel="preload" href="/assets/fonts/saira-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css?v=f24833502d">
 <script defer src="/assets/site.js?v=f24833502d"></script>
+<link rel="stylesheet" href="/assets/signup.css?v=6136cbf77d">
+<script defer src="/assets/signup.js?v=6136cbf77d"></script>
 
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
@@ -204,7 +206,7 @@
   <div class="pfoot"><span class="pill">Locked</span><span class="mono">b1f2…a46d</span><a href="/euroleague/2026-27/round-6/panathinaikos-vs-hapoel-tel-aviv/">Full card →</a></div>
 </article><article class="pcard">
   <div class="pcard-top">
-    <div class="pcard-row"><span class="pcard-when"><time datetime="2026-10-16T18:30:00Z" data-utc="2026-10-16T18:30:00Z">Fri 16 Oct · 20:30 CEST</time></span><span class="ptag">PICK · Added later</span></div>
+    <div class="pcard-row"><span class="pcard-when"><time datetime="2026-10-16T18:30:00Z" data-utc="2026-10-16T18:30:00Z">Fri 16 Oct · 20:30 CEST</time></span><span class="ptag">LATE PICK</span></div>
     <h3><a href="/euroleague/2026-27/round-6/barcelona-vs-olympiacos/">Barcelona <span class="v">v</span> Olympiacos</a></h3>
     <div class="pline">Total: Under 177</div>
   </div>
@@ -232,13 +234,21 @@
     <div><div class="num accent">2–3</div><div class="sm">picks won–lost · −1.1 units at Pinnacle&#x27;s odds</div></div>
     <div><div class="num">4/5</div><div class="sm">expected close reached</div></div>
     <div><div class="num">3/4</div><div class="sm">our line nearer the close</div></div>
-  </div><p class="more"><a href="/record/">Full scorecard and the season record →</a></p></div><div class="box sub"><h2>Every round, by email</h2><p>Our lines when they lock, the scorecard when it&#x27;s graded. Nothing else.</p>
-  <form class="subform" action="#" method="post"><label for="sub-email" class="vh">Email address</label>
-  <input id="sub-email" type="email" placeholder="you@example.com" disabled><button type="submit" disabled>Subscribe</button></form>
-  <p class="sm">The round email starts soon.</p></div></section></main>
+  </div><p class="more"><a href="/record/">Full scorecard and the season record →</a></p></div><div class="box sub found join" id="founding"><h2>Join Odds or Even</h2><p>Every EuroLeague handicap and total pick, sent to our private Telegram channel the moment it’s published. €10 a month, cancel any time. The first 100 members keep €10 a month for life.</p>
+  <p class="places" data-places data-src="/api/spots" data-left="{n} of 100 places left" data-full="All 100 founding places are taken. You can still join for €10 a month.">Only 100 founding places.</p>
+  <form class="subform found-form join-form" action="/api/join" method="post" novalidate>
+  <input type="hidden" name="lang" value="en">
+  <div class="hp" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+  <label for="join-email" class="vh">Email address</label>
+  <input id="join-email" name="email" type="email" required autocomplete="email" placeholder="you@example.com">
+  <button type="submit">Join for €10 a month</button>
+  <div class="ticks"><label><input type="checkbox" name="adult" value="1" required><span>I’m 18 or over</span></label>
+  <label><input type="checkbox" name="agree" value="1" required><span>I agree to the <a href="/privacy/">privacy note</a></span></label></div>
+  </form>
+  <p class="sm found-msg" role="status" aria-live="polite" data-invalid="Please enter a valid email address." data-consent="Please tick both boxes." data-member="This email already has a membership. Your Telegram link is in your welcome email, or write to contact@oddsoreven.com." data-error="Something went wrong. Please try again, or write to contact@oddsoreven.com.">You pay on Stripe’s secure page. We never see your card.</p></div></section></main>
 <footer class="foot"><div class="wrap foot-in">
-  <span class="foot-note"><svg class="linemark" viewBox="0 0 92 64" aria-hidden="true"><g transform="translate(2 10) scale(1.2)" fill="none" stroke-width="7" stroke-linecap="round"><path class="stroke-accent" d="M5 6.5A15 15 0 1 1 5 29.5M11 18H27"/><ellipse cx="56.67" cy="18" rx="11.5" ry="14.5" stroke="currentColor"/></g><rect x="43" y="8" width="4" height="48" rx="2" fill="currentColor"/></svg>For information and entertainment, 18+. No bookmaker links, no paid tipsters.</span>
-  <span><a href="https://x.com/OddsorEven" rel="me noopener">X</a> · <a href="https://t.me/oddsoreven" rel="me noopener">Telegram</a> · <a href="https://www.instagram.com/theoddsoreven/" rel="me noopener">Instagram</a> · Contact: contact@oddsoreven.com · <a href="/privacy/">Privacy</a> · <a href="/legal/">Legal</a></span>
+  <span class="foot-note"><svg class="linemark" viewBox="0 0 92 64" aria-hidden="true"><g transform="translate(2 10) scale(1.2)" fill="none" stroke-width="7" stroke-linecap="round"><path class="stroke-accent" d="M5 6.5A15 15 0 1 1 5 29.5M11 18H27"/><ellipse cx="56.67" cy="18" rx="11.5" ry="14.5" stroke="currentColor"/></g><rect x="43" y="8" width="4" height="48" rx="2" fill="currentColor"/></svg>For information and entertainment, 18+. We don’t promote any betting site and carry no bookmaker links. Results are never guaranteed: only bet what you can afford to lose.</span>
+  <span><a href="https://x.com/OddsorEven" rel="me noopener">X</a> · <a href="https://t.me/oddsoreven" rel="me noopener">Telegram</a> · <a href="https://www.instagram.com/theoddsoreven/" rel="me noopener">Instagram</a> · Contact: contact@oddsoreven.com · <a href="/help/">Help</a> · <a href="/privacy/">Privacy</a> · <a href="/legal/">Legal</a></span>
 </div></footer>
 </body>
 </html>
