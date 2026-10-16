@@ -1,0 +1,104 @@
+{
+  "competition": "EuroLeague",
+  "games": [
+    {
+      "away": "OLY",
+      "away_name": "Olympiacos",
+      "call": {
+        "handicap": {
+          "away": 2.016,
+          "home": 1.985,
+          "line": 4.0,
+          "push_chance": 0.0374
+        },
+        "moneyline": {
+          "away": 1.598,
+          "home": 2.673
+        },
+        "total": {
+          "line": 177.0,
+          "over": 2.027,
+          "push_chance": 0.0276,
+          "under": 1.974
+        }
+      },
+      "change": "Barcelona +3.5 -> +4.0, total 175.0 -> 177.0, Barcelona win 37% -> 37%",
+      "home": "BAR",
+      "home_name": "Barcelona",
+      "id": "E2026-R06-BAR-OLY",
+      "market": {
+        "at": "2026-10-16T15:03:11Z",
+        "handicap": {
+          "away": 1.97,
+          "home": 1.88,
+          "line": 4.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.52,
+          "home": 2.63,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 177.0,
+          "over": 1.88,
+          "source": "Pinnacle",
+          "under": 1.97
+        }
+      },
+      "pinnacle_total": {
+        "at": "2026-10-16T13:23:30Z",
+        "line": 177.0,
+        "over": 1.89,
+        "under": 1.96
+      },
+      "reason": {
+        "en": "Total moved to a pick",
+        "es": "El total pasa a ser una pick",
+        "it": "Il totale diventa una pick"
+      },
+      "saved_at": "2026-10-16T14:53:33.142Z",
+      "team_news": {
+        "as_of": "2026-10-15T14:03:00Z",
+        "players": [
+          {
+            "club": "BAR",
+            "player": "Justin Minaya",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Yoan Makoundou",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Nikolaos Plotas",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-16T18:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 176.5,
+        "late": true,
+        "line": 177.0,
+        "odds": 1.96,
+        "side": "under"
+      },
+      "update_of": "data/euroleague/E2026/R06/calls/20261015T144629Z.json"
+    }
+  ],
+  "published_at": "2026-10-16T15:13:59Z",
+  "round": 6,
+  "season": "E2026",
+  "stage": "update",
+  "terms": "A news update to a published line. The original call is unchanged in its own file. Fair odds, no margin.",
+  "type": "update"
+}
