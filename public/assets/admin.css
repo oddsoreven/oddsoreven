@@ -1,0 +1,17 @@
+/* Odds or Even back office (/admin) - on top of site.css */
+.adm .nav a{margin-left:18px}
+.adm-flash,.adm-ok{background:var(--accent-wash);border-radius:10px;padding:10px 14px;font-weight:600}
+.adm-tiles{display:flex;flex-wrap:wrap;gap:14px 28px;margin:14px 0}
+.adm-tiles>div{min-width:130px}
+.adm-list{padding-left:18px;line-height:1.8}
+.adm-search{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.adm-search select{font:inherit;padding:8px 10px;border-radius:999px}
+.adm-kv th{text-align:left;width:190px;white-space:nowrap}
+.adm-actions{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.adm-actions form{margin:0}
+.adm-actions button{font:inherit;border:0;cursor:pointer}
+.adm-email{word-break:break-all;font-size:clamp(22px,5vw,40px)}
+.adm-login{max-width:520px}
+.adm .btn2{color:var(--ink)!important;border-color:var(--accent)}
+.adm .btn2:hover{background:var(--accent-wash)}
+.adm .adm-actions .btn{margin-top:0}

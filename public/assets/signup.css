@@ -10,3 +10,6 @@
 .found.done .found-form{display:none}
 .leave-form{margin:8px 0 18px}
 .leave-form button{font:inherit;border:0;cursor:pointer}
+.joined{margin:10px 0 18px}
+.joined-msg{font-weight:600}
+.joined-btn[hidden]{display:none}
