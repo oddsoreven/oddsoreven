@@ -222,3 +222,31 @@ main.wrap{padding-top:36px;padding-bottom:64px}
 .gs-cell.is-reached{background:#E08A4E;color:#17121C}
 .gs-cell.not-reached{border:1.5px dashed #B9AFA6;color:#5A5160}
 @media (max-width:420px){.gsplit{font-size:12px}.gs-res,.gs-close{padding:4px 9px}}
+
+/* 18 Oct: Past picks */
+.psum{display:flex;flex-wrap:wrap;align-items:center;gap:10px 28px;margin:18px 0 14px;padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.psum div{display:flex;flex-direction:column}
+.psum b{font-size:26px;line-height:1.1}
+.psum span{font-size:12.5px;color:var(--muted)}
+.psum a{margin-left:auto;font-weight:700}
+.pfilters{display:flex;flex-wrap:wrap;gap:10px 16px;margin:0 0 14px}
+.pfilters label{display:flex;flex-direction:column;gap:4px;font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.pfilters select{font:inherit;font-size:14px;text-transform:none;letter-spacing:0;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 10px;min-width:130px}
+.pround{margin:0 0 12px}
+.pround>summary{cursor:pointer;font-weight:800;padding:10px 4px;list-style-position:inside}
+.pround .tablebox{margin-top:6px}
+.ptable td{white-space:nowrap}
+.ptable td:nth-child(2){white-space:normal;min-width:180px}
+.pmk{display:inline-block;margin-left:6px;font-size:11px;font-weight:600;color:var(--muted);background:var(--card-2);padding:1px 7px;border-radius:999px}
+.ptag-s{font-size:10.5px;padding:1px 7px;margin-left:4px}
+.ppend{display:inline-block;font-size:12.5px;color:var(--muted);border:1.5px dashed #B9AFA6;border-radius:999px;padding:3px 10px}
+.pcardlink a{font-weight:700;white-space:nowrap}
+.pnomatch{color:var(--muted)}
+@media (max-width:640px){
+  .ptable thead{display:none}
+  .ptable,.ptable tbody,.ptable tr,.ptable td{display:block;width:100%}
+  .ptable tr{padding:10px 12px;border-bottom:1px solid var(--line)}
+  .ptable td{border:0;padding:3px 0;white-space:normal}
+  .ptable td[data-l]::before{content:attr(data-l);display:inline-block;min-width:132px;font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .psum a{margin-left:0}
+}
