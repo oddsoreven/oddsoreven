@@ -1,0 +1,87 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "VIR",
+      "away_name": "Virtus Bologna",
+      "call": {
+        "handicap": {
+          "away": 1.994,
+          "home": 2.006,
+          "line": -8.5
+        },
+        "moneyline": {
+          "away": 4.322,
+          "home": 1.301
+        },
+        "total": {
+          "line": 175.5,
+          "over": 2.014,
+          "under": 1.986
+        }
+      },
+      "file": "data/euroleague/E2026/R07/calls/20261020T140207Z.json",
+      "format": 2,
+      "home": "HTA",
+      "home_name": "Hapoel Tel Aviv",
+      "id": "E2026-R07-HTA-VIR",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-20T14:01:39Z",
+        "handicap": {
+          "away": 1.98,
+          "home": 1.83,
+          "line": -7.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.67,
+          "home": 1.28,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 175.5,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.88
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-20T13:55:28Z",
+        "away": 1.901,
+        "home": 1.893,
+        "line": -8.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-20T13:55:28Z",
+        "line": 175.5,
+        "over": 1.926,
+        "under": 1.877
+      },
+      "published_at": "2026-10-20T14:02:07Z",
+      "saved_at": "2026-10-20T13:56:55Z",
+      "sha256": "b153a8f6fc2b46c62a1ef5b426f39c95f099e789bcbdc3c90d9f20d829b634bf",
+      "team_news": {
+        "as_of": "2026-10-20T07:56:00Z",
+        "players": [
+          {
+            "club": "HTA",
+            "player": "Bar Timor",
+            "status": "likely_out"
+          },
+          {
+            "club": "HTA",
+            "player": "Tomer Ginat",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-21T16:00:00Z",
+      "total_kind": "level"
+    }
+  ],
+  "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
+  "round": 7,
+  "season": "E2026"
+}

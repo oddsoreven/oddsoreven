@@ -1,0 +1,85 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "VIR",
+      "away_name": "Virtus Bologna",
+      "call": {
+        "handicap": {
+          "away": 1.994,
+          "home": 2.006,
+          "line": -8.5
+        },
+        "moneyline": {
+          "away": 4.322,
+          "home": 1.301
+        },
+        "total": {
+          "line": 175.5,
+          "over": 2.014,
+          "under": 1.986
+        }
+      },
+      "home": "HTA",
+      "home_name": "Hapoel Tel Aviv",
+      "id": "E2026-R07-HTA-VIR",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-20T14:01:39Z",
+        "handicap": {
+          "away": 1.98,
+          "home": 1.83,
+          "line": -7.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.67,
+          "home": 1.28,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 175.5,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.88
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-20T13:55:28Z",
+        "away": 1.901,
+        "home": 1.893,
+        "line": -8.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-20T13:55:28Z",
+        "line": 175.5,
+        "over": 1.926,
+        "under": 1.877
+      },
+      "saved_at": "2026-10-20T13:56:55Z",
+      "team_news": {
+        "as_of": "2026-10-20T07:56:00Z",
+        "players": [
+          {
+            "club": "HTA",
+            "player": "Bar Timor",
+            "status": "likely_out"
+          },
+          {
+            "club": "HTA",
+            "player": "Tomer Ginat",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-21T16:00:00Z",
+      "total_kind": "level"
+    }
+  ],
+  "published_at": "2026-10-20T14:02:07Z",
+  "round": 7,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
