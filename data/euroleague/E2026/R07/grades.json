@@ -1,0 +1,32 @@
+{
+  "E2026-R07-HTA-VIR": {
+    "close": {
+      "at": "2026-10-21T15:57:26Z",
+      "away": 1.917,
+      "home": 1.935,
+      "line": -7.5,
+      "minutes_before": 3,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 81,
+      "home": 90
+    },
+    "format": 2,
+    "line": {
+      "close": -7.5,
+      "nearer_close": false,
+      "nearer_result": true,
+      "ours": -8.5,
+      "pinnacle_at_save": -8.0
+    },
+    "moneyline": {
+      "home_prob": 0.7686,
+      "home_won": true
+    },
+    "result": {
+      "margin": 9,
+      "total": 171
+    }
+  }
+}
