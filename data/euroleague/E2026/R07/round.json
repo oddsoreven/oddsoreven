@@ -695,6 +695,269 @@
         "odds": 1.97,
         "side": "under"
       }
+    },
+    {
+      "away": "ASV",
+      "away_name": "ASVEL",
+      "call": {
+        "handicap": {
+          "away": 2.027,
+          "home": 1.974,
+          "line": -10.0,
+          "push_chance": 0.0348
+        },
+        "moneyline": {
+          "away": 5.311,
+          "home": 1.232
+        },
+        "total": {
+          "line": 173.0,
+          "over": 2.01,
+          "push_chance": 0.0269,
+          "under": 1.99
+        }
+      },
+      "file": "data/euroleague/E2026/R07/calls/20261022T143537Z.json",
+      "format": 2,
+      "home": "ZAL",
+      "home_name": "Zalgiris",
+      "id": "E2026-R07-ZAL-ASV",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.87,
+          "home": 1.93,
+          "line": -10.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 4.59,
+          "home": 1.2,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.87,
+        "home": 1.935,
+        "line": -10.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 172.5,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "published_at": "2026-10-22T14:35:37Z",
+      "saved_at": "2026-10-22T14:18:43Z",
+      "sha256": "cb2ec53f1bd3c890555c8b3ebf4184738b539d22aa47254019eb823914bc16c9",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "doubtful"
+          },
+          {
+            "club": "ASV",
+            "player": "Mathis Dossou-Yovo",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T17:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 173.0
+    },
+    {
+      "away": "ULK",
+      "away_name": "Fenerbahce",
+      "call": {
+        "handicap": {
+          "away": 2.014,
+          "home": 1.986,
+          "line": -3.0,
+          "push_chance": 0.0329
+        },
+        "moneyline": {
+          "away": 2.461,
+          "home": 1.685
+        },
+        "total": {
+          "line": 170.0,
+          "over": 2.022,
+          "push_chance": 0.0233,
+          "under": 1.979
+        }
+      },
+      "file": "data/euroleague/E2026/R07/calls/20261022T143537Z.json",
+      "format": 2,
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R07-OLY-ULK",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.87,
+          "line": -2.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.19,
+          "home": 1.68,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 171.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.935,
+        "home": 1.87,
+        "line": -2.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 170.5,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "published_at": "2026-10-22T14:35:37Z",
+      "saved_at": "2026-10-22T14:20:02Z",
+      "sha256": "cb2ec53f1bd3c890555c8b3ebf4184738b539d22aa47254019eb823914bc16c9",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Nikolaos Plotas",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Evan Fournier",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T18:15:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 170.0,
+        "line": 171.0,
+        "odds": 1.87,
+        "side": "under"
+      }
+    },
+    {
+      "away": "PAM",
+      "away_name": "Valencia Basket",
+      "call": {
+        "handicap": {
+          "away": 1.996,
+          "home": 2.004,
+          "line": 4.5
+        },
+        "moneyline": {
+          "away": 1.555,
+          "home": 2.802
+        },
+        "total": {
+          "line": 187.0,
+          "over": 2.013,
+          "push_chance": 0.026,
+          "under": 1.987
+        }
+      },
+      "file": "data/euroleague/E2026/R07/calls/20261022T143537Z.json",
+      "format": 2,
+      "home": "PRS",
+      "home_name": "Paris Basketball",
+      "id": "E2026-R07-PRS-PAM",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.87,
+          "line": 5.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.47,
+          "home": 2.68,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 187.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.935,
+        "home": 1.87,
+        "line": 5.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 186.5,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "published_at": "2026-10-22T14:35:37Z",
+      "saved_at": "2026-10-22T14:20:11Z",
+      "sha256": "cb2ec53f1bd3c890555c8b3ebf4184738b539d22aa47254019eb823914bc16c9",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "PRS",
+            "player": "Frank Ntilikina",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Nadir Hifi",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "T.J. Warren",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T18:45:00Z",
+      "total_kind": "view",
+      "total_view_line": 187.0,
+      "view_line": 4.5
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",

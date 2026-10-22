@@ -1,0 +1,262 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "ASV",
+      "away_name": "ASVEL",
+      "call": {
+        "handicap": {
+          "away": 2.027,
+          "home": 1.974,
+          "line": -10.0,
+          "push_chance": 0.0348
+        },
+        "moneyline": {
+          "away": 5.311,
+          "home": 1.232
+        },
+        "total": {
+          "line": 173.0,
+          "over": 2.01,
+          "push_chance": 0.0269,
+          "under": 1.99
+        }
+      },
+      "home": "ZAL",
+      "home_name": "Zalgiris",
+      "id": "E2026-R07-ZAL-ASV",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.87,
+          "home": 1.93,
+          "line": -10.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 4.59,
+          "home": 1.2,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.87,
+        "home": 1.935,
+        "line": -10.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 172.5,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "saved_at": "2026-10-22T14:18:43Z",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "doubtful"
+          },
+          {
+            "club": "ASV",
+            "player": "Mathis Dossou-Yovo",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T17:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 173.0
+    },
+    {
+      "away": "ULK",
+      "away_name": "Fenerbahce",
+      "call": {
+        "handicap": {
+          "away": 2.014,
+          "home": 1.986,
+          "line": -3.0,
+          "push_chance": 0.0329
+        },
+        "moneyline": {
+          "away": 2.461,
+          "home": 1.685
+        },
+        "total": {
+          "line": 170.0,
+          "over": 2.022,
+          "push_chance": 0.0233,
+          "under": 1.979
+        }
+      },
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R07-OLY-ULK",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.87,
+          "line": -2.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.19,
+          "home": 1.68,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 171.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.935,
+        "home": 1.87,
+        "line": -2.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 170.5,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "saved_at": "2026-10-22T14:20:02Z",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Nikolaos Plotas",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Evan Fournier",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T18:15:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 170.0,
+        "line": 171.0,
+        "odds": 1.87,
+        "side": "under"
+      }
+    },
+    {
+      "away": "PAM",
+      "away_name": "Valencia Basket",
+      "call": {
+        "handicap": {
+          "away": 1.996,
+          "home": 2.004,
+          "line": 4.5
+        },
+        "moneyline": {
+          "away": 1.555,
+          "home": 2.802
+        },
+        "total": {
+          "line": 187.0,
+          "over": 2.013,
+          "push_chance": 0.026,
+          "under": 1.987
+        }
+      },
+      "home": "PRS",
+      "home_name": "Paris Basketball",
+      "id": "E2026-R07-PRS-PAM",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-22T14:07:21Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.87,
+          "line": 5.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.47,
+          "home": 2.68,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 187.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.87
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-22T14:12:39Z",
+        "away": 1.935,
+        "home": 1.87,
+        "line": 5.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-22T14:12:39Z",
+        "line": 186.5,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "saved_at": "2026-10-22T14:20:11Z",
+      "team_news": {
+        "as_of": "2026-10-22T14:03:00Z",
+        "players": [
+          {
+            "club": "PRS",
+            "player": "Frank Ntilikina",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Nadir Hifi",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "T.J. Warren",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-23T18:45:00Z",
+      "total_kind": "view",
+      "total_view_line": 187.0,
+      "view_line": 4.5
+    }
+  ],
+  "published_at": "2026-10-22T14:35:37Z",
+  "round": 7,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
