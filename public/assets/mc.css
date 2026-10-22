@@ -1,0 +1,51 @@
+/* Odds or Even: tools pages (22 Oct 2026). Uses the site's own tokens from site.css. */
+.mc{max-width:720px}
+.mc .intro{margin:0 0 18px}
+.mc-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px}
+.mc-ways{display:flex;gap:6px;border:0;padding:0;margin:0 0 16px}
+.mc-ways legend{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600;margin-bottom:8px;padding:0}
+.mc-ways label{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-weight:600;min-height:36px}
+.mc-ways input{accent-color:var(--accent)}
+.mc-ways label:has(input:checked){background:var(--dark);color:var(--on-dark);border-color:var(--dark)}
+.mc-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.mc.is-three .mc-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.mc-in{display:flex;flex-direction:column;gap:6px}
+.mc-in.mc-x{display:none}
+.mc.is-three .mc-in.mc-x{display:flex;order:2}
+.mc.is-three .mc-in.mc-b{order:3}
+.mc-lab{font-size:13px;font-weight:600;color:var(--muted)}
+.mc-in input{font:600 20px/1.2 var(--mono);padding:10px 14px;border:1px solid var(--dark);border-radius:12px;background:var(--bg);min-height:48px;width:100%;box-sizing:border-box}
+.mc-in input[aria-invalid="true"]{border-color:#B3261E;background:#FBEAE8}
+.mc-hint{font-size:13px;color:var(--muted);margin:10px 0 0}
+.mc-bad{margin:12px 0 0;color:#B3261E;font-weight:600}
+.mc-out{margin-top:18px}
+.mc-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px;background:var(--dark);color:var(--on-dark);border-radius:14px;padding:14px 18px}
+.mc-head .mc-big{font:800 34px/1 var(--display);color:var(--accent)}
+.mc-head .mc-sm{font-size:14px;color:var(--on-dark-2)}
+.mc-out .t td:nth-child(n+2),.mc-out .t th:nth-child(n+2){font-family:var(--mono);text-align:right}
+.mc-out .t td:nth-child(4),.mc-out .t td:nth-child(5){font-weight:800;color:var(--accent-text)}
+.mc-rec{margin-top:18px;background:var(--accent-wash);border-radius:12px;padding:12px 16px}
+.mc-list{display:grid;gap:12px;max-width:720px}
+.mc-list a.mc-item{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;color:var(--ink);text-decoration:none}
+.mc-list a.mc-item:hover{border-color:var(--accent)}
+.mc-list .mc-item b{display:block;font-size:18px;margin-bottom:4px}
+.mc-ways{flex-wrap:wrap}
+@media (max-width:600px){.mc-card{padding:16px 14px}.mc.is-three .mc-grid{grid-template-columns:1fr}.mc-grid{grid-template-columns:1fr}.mc-out .t th,.mc-out .t td{padding:8px 6px;font-size:13.5px}.mc-out .t th:nth-child(3),.mc-out .t td:nth-child(3){display:none}.mc-out .t th{font-size:10.5px;letter-spacing:.03em}}
+/* value bet calculator */
+.vc-row2{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:16px;padding-top:16px;border-top:1px solid var(--line)}
+.vc-row2 select{font:600 16px/1.2 var(--display);padding:10px 12px;border:1px solid var(--dark);border-radius:12px;background:var(--bg);min-height:48px;width:100%}
+.vc-sec{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600;margin:0 0 8px}
+.vc-out .mc-head .mc-big{color:var(--on-dark)}
+.vc-out.is-value .mc-head{background:#1E5B3A}.vc-out.is-value .mc-big{color:#BFF0D0}
+.vc-out.is-novalue .mc-head{background:#6B1E24}.vc-out.is-novalue .mc-big{color:#F7C9CD}
+.vc-verdict{font-weight:800;font-size:16px;letter-spacing:.04em;text-transform:uppercase;color:var(--on-dark)}
+.vc-facts{margin:12px 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.vc-facts div{background:var(--card-2);border-radius:12px;padding:10px 14px}
+.vc-facts dt{font-size:12px;color:var(--muted);font-weight:600}
+.vc-facts dd{margin:2px 0 0;font:800 20px/1.2 var(--mono)}
+.vc-note{font-size:13px;color:var(--muted);margin:10px 0 0}
+.mc-more{margin-top:14px}
+@media (max-width:600px){.vc-row2{grid-template-columns:1fr}}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.vc-facts dd small{display:block;font:600 12px/1.3 var(--display);color:var(--muted);margin-top:2px}
+.vc-big{margin:10px 0 0;font-weight:700;color:#8A4B00;background:#FFF1D6;border-radius:10px;padding:8px 12px}
