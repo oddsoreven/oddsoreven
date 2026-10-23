@@ -155,6 +155,47 @@
       "units": -1.0
     }
   },
+  "E2026-R07-OLY-ULK": {
+    "close": {
+      "at": "2026-10-23T18:03:31Z",
+      "away": 1.88,
+      "home": 1.98,
+      "line": -2.0,
+      "minutes_before": 11,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 64,
+      "home": 61
+    },
+    "format": 2,
+    "line": {
+      "close": -2.0,
+      "nearer_close": false,
+      "nearer_result": false,
+      "ours": -3.0,
+      "pinnacle_at_save": -2.5
+    },
+    "moneyline": {
+      "home_prob": 0.5935,
+      "home_won": false
+    },
+    "result": {
+      "margin": -3,
+      "total": 125
+    },
+    "total_close": {
+      "at": "2026-10-23T18:03:31Z",
+      "line": 166.5
+    },
+    "total_pick": {
+      "close_line": 166.5,
+      "close_reached": true,
+      "clv": 4.5,
+      "outcome": "W",
+      "units": 0.87
+    }
+  },
   "E2026-R07-PAN-BAS": {
     "close": {
       "at": "2026-10-22T18:13:31Z",
@@ -240,6 +281,36 @@
       "units": -1.0
     }
   },
+  "E2026-R07-PRS-PAM": {
+    "close": {
+      "at": "2026-10-23T18:33:31Z",
+      "away": 1.88,
+      "home": 1.97,
+      "line": 4.0,
+      "minutes_before": 11,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 104,
+      "home": 93
+    },
+    "format": 2,
+    "line": {
+      "close": 4.0,
+      "nearer_close": true,
+      "nearer_result": false,
+      "ours": 4.5,
+      "pinnacle_at_save": 5.0
+    },
+    "moneyline": {
+      "home_prob": 0.3569,
+      "home_won": false
+    },
+    "result": {
+      "margin": -11,
+      "total": 197
+    }
+  },
   "E2026-R07-TEL-MAD": {
     "close": {
       "at": "2026-10-22T17:55:13Z",
@@ -275,6 +346,36 @@
     "result": {
       "margin": -14,
       "total": 212
+    }
+  },
+  "E2026-R07-ZAL-ASV": {
+    "close": {
+      "at": "2026-10-23T16:43:32Z",
+      "away": 1.952,
+      "home": 1.901,
+      "line": -7.5,
+      "minutes_before": 16,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 85,
+      "home": 105
+    },
+    "format": 2,
+    "line": {
+      "close": -7.5,
+      "nearer_close": null,
+      "nearer_result": null,
+      "ours": -10.0,
+      "pinnacle_at_save": -10.0
+    },
+    "moneyline": {
+      "home_prob": 0.8117,
+      "home_won": true
+    },
+    "result": {
+      "margin": 20,
+      "total": 190
     }
   }
 }
