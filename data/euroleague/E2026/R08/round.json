@@ -376,6 +376,198 @@
       },
       "tip_utc": "2026-10-27T19:15:00Z",
       "total_kind": "level"
+    },
+    {
+      "away": "ULK",
+      "away_name": "Fenerbahce",
+      "call": {
+        "handicap": {
+          "away": 2.051,
+          "home": 1.952,
+          "line": -1.5
+        },
+        "moneyline": {
+          "away": 2.208,
+          "home": 1.827
+        },
+        "total": {
+          "line": 174.5,
+          "over": 2.049,
+          "under": 1.953
+        }
+      },
+      "file": "data/euroleague/E2026/R08/calls/20261026T174534Z.json",
+      "format": 2,
+      "home": "PAM",
+      "home_name": "Valencia Basket",
+      "id": "E2026-R08-PAM-ULK",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.95,
+          "line": -1.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.93,
+          "home": 1.92,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 175.5,
+          "over": 2.0,
+          "source": "Pinnacle",
+          "under": 1.85
+        }
+      },
+      "pick": {
+        "expected_close": -1.5,
+        "line": -1.0,
+        "odds": 1.95,
+        "side": "home",
+        "team": "PAM"
+      },
+      "pinnacle": {
+        "at": "2026-10-26T17:42:16Z",
+        "away": 1.901,
+        "home": 1.952,
+        "line": -1.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T17:42:16Z",
+        "line": 175.0,
+        "over": 1.943,
+        "under": 1.909
+      },
+      "published_at": "2026-10-26T17:45:34Z",
+      "saved_at": "2026-10-26T17:43:36Z",
+      "sha256": "49145d2ff121c3188d767bae2570b2e121ce9354d6734fc8fac4738e5f16d1a4",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "PAM",
+            "player": "Nate Reuvers",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T19:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 174.5,
+        "line": 175.5,
+        "odds": 1.85,
+        "side": "under"
+      }
+    },
+    {
+      "away": "MAD",
+      "away_name": "Real Madrid",
+      "call": {
+        "handicap": {
+          "away": 1.982,
+          "home": 2.019,
+          "line": 8.5
+        },
+        "moneyline": {
+          "away": 1.29,
+          "home": 4.442
+        },
+        "total": {
+          "line": 183.5,
+          "over": 2.073,
+          "under": 1.932
+        }
+      },
+      "file": "data/euroleague/E2026/R08/calls/20261026T174534Z.json",
+      "format": 2,
+      "home": "BAS",
+      "home_name": "Baskonia",
+      "id": "E2026-R08-BAS-MAD",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 2.0,
+          "home": 1.86,
+          "line": 9.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.23,
+          "home": 4.38,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 182.5,
+          "over": 1.89,
+          "source": "Pinnacle",
+          "under": 1.96
+        }
+      },
+      "pick": {
+        "expected_close": 9.0,
+        "line": 9.5,
+        "odds": 1.86,
+        "side": "home",
+        "team": "BAS"
+      },
+      "pinnacle": {
+        "at": "2026-10-26T17:42:16Z",
+        "away": 1.909,
+        "home": 1.935,
+        "line": 9.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T17:42:16Z",
+        "line": 183.0,
+        "over": 1.952,
+        "under": 1.901
+      },
+      "published_at": "2026-10-26T17:45:34Z",
+      "saved_at": "2026-10-26T17:43:27Z",
+      "sha256": "49145d2ff121c3188d767bae2570b2e121ce9354d6734fc8fac4738e5f16d1a4",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "BAS",
+            "player": "Tadas Sedekerskis",
+            "status": "out"
+          },
+          {
+            "club": "BAS",
+            "player": "Chris Duarte",
+            "status": "likely_out"
+          },
+          {
+            "club": "BAS",
+            "player": "Kobi Simmons",
+            "status": "likely_out"
+          },
+          {
+            "club": "BAS",
+            "player": "Rodions Kurucs",
+            "status": "doubtful"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T20:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 183.5
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
