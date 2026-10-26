@@ -1,0 +1,264 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "BAR",
+      "away_name": "Barcelona",
+      "call": {
+        "handicap": {
+          "away": 2.064,
+          "home": 1.939,
+          "line": 1.5
+        },
+        "moneyline": {
+          "away": 1.928,
+          "home": 2.078
+        },
+        "total": {
+          "line": 176.0,
+          "over": 2.013,
+          "push_chance": 0.023,
+          "under": 1.987
+        }
+      },
+      "home": "MUN",
+      "home_name": "Bayern Munich",
+      "id": "E2026-R08-MUN-BAR",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 2.04,
+          "home": 1.83,
+          "line": 1.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.99,
+          "home": 1.86,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 176.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.95
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-26T17:17:42Z",
+        "away": 2.04,
+        "home": 1.83,
+        "line": 1.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T17:17:42Z",
+        "line": 176.5,
+        "over": 1.9,
+        "under": 1.95
+      },
+      "saved_at": "2026-10-26T17:20:34Z",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "BAR",
+            "player": "Yoan Makoundou",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T19:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 176.0,
+      "view_line": 1.5
+    },
+    {
+      "away": "TEL",
+      "away_name": "Maccabi Tel Aviv",
+      "call": {
+        "handicap": {
+          "away": 1.996,
+          "home": 2.004,
+          "line": -6.0,
+          "push_chance": 0.036
+        },
+        "moneyline": {
+          "away": 3.268,
+          "home": 1.441
+        },
+        "total": {
+          "line": 172.5,
+          "over": 2.021,
+          "under": 1.979
+        }
+      },
+      "home": "RED",
+      "home_name": "Crvena Zvezda",
+      "id": "E2026-R08-RED-TEL",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 1.88,
+          "home": 1.96,
+          "line": -5.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.98,
+          "home": 1.42,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 172.5,
+          "over": 1.91,
+          "source": "Pinnacle",
+          "under": 1.94
+        }
+      },
+      "pick": {
+        "expected_close": -6.0,
+        "line": -5.5,
+        "odds": 1.96,
+        "side": "home",
+        "team": "RED"
+      },
+      "pinnacle": {
+        "at": "2026-10-26T17:17:42Z",
+        "away": 1.88,
+        "home": 1.96,
+        "line": -5.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T17:17:42Z",
+        "line": 172.5,
+        "over": 1.91,
+        "under": 1.94
+      },
+      "saved_at": "2026-10-26T17:27:27Z",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "RED",
+            "player": "Stefan Miljenovic",
+            "status": "likely_out"
+          },
+          {
+            "club": "RED",
+            "player": "Ognjen Dobric",
+            "status": "doubtful"
+          },
+          {
+            "club": "TEL",
+            "player": "Gabriel Lundberg",
+            "status": "out"
+          },
+          {
+            "club": "TEL",
+            "player": "Gur Lavi",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T19:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 172.0
+    },
+    {
+      "away": "MIL",
+      "away_name": "Olimpia Milano",
+      "call": {
+        "handicap": {
+          "away": 1.994,
+          "home": 2.006,
+          "line": -13.0,
+          "push_chance": 0.0375
+        },
+        "moneyline": {
+          "away": 7.893,
+          "home": 1.145
+        },
+        "total": {
+          "line": 166.0,
+          "over": 2.002,
+          "push_chance": 0.026,
+          "under": 1.998
+        }
+      },
+      "home": "PAN",
+      "home_name": "Panathinaikos",
+      "id": "E2026-R08-PAN-MIL",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.92,
+          "line": -13.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 5.9,
+          "home": 1.15,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 165.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.95
+        }
+      },
+      "pick": {
+        "expected_close": 13.0,
+        "line": 13.5,
+        "odds": 1.93,
+        "side": "away",
+        "team": "MIL"
+      },
+      "pinnacle": {
+        "at": "2026-10-26T17:17:42Z",
+        "away": 1.93,
+        "home": 1.92,
+        "line": -13.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T17:17:42Z",
+        "line": 165.5,
+        "over": 1.9,
+        "under": 1.95
+      },
+      "saved_at": "2026-10-26T17:31:38Z",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "PAN",
+            "player": "Nikos Rogkavopoulos",
+            "status": "likely_out"
+          },
+          {
+            "club": "PAN",
+            "player": "Eleftherios Mantzoukas",
+            "status": "doubtful"
+          },
+          {
+            "club": "MIL",
+            "player": "Garrison Mathews",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T19:15:00Z",
+      "total_kind": "level"
+    }
+  ],
+  "published_at": "2026-10-26T17:33:50Z",
+  "round": 8,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
