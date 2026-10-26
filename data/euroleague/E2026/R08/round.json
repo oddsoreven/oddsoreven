@@ -1,0 +1,119 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "PRS",
+      "away_name": "Paris Basketball",
+      "call": {
+        "handicap": {
+          "away": 1.984,
+          "home": 2.016,
+          "line": -9.5
+        },
+        "moneyline": {
+          "away": 4.822,
+          "home": 1.262
+        },
+        "total": {
+          "line": 178.5,
+          "over": 2.036,
+          "under": 1.965
+        }
+      },
+      "file": "data/euroleague/E2026/R08/calls/20261026T171744Z.json",
+      "format": 2,
+      "home": "DUB",
+      "home_name": "Dubai Basketball",
+      "id": "E2026-R08-DUB-PRS",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 1.99,
+          "home": 1.86,
+          "line": -9.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 4.75,
+          "home": 1.21,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 179.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.92
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-26T16:42:16Z",
+        "away": 1.909,
+        "home": 1.935,
+        "line": -10.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T16:42:16Z",
+        "line": 179.0,
+        "over": 1.935,
+        "under": 1.917
+      },
+      "published_at": "2026-10-26T17:17:44Z",
+      "saved_at": "2026-10-26T17:11:12Z",
+      "sha256": "84389374f20cf73932d384369ef2d667708cc61cbfd3daa54c7723331e1d8c26",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "DUB",
+            "player": "Justin Anderson",
+            "status": "likely_out"
+          },
+          {
+            "club": "DUB",
+            "player": "Klemen Prepelic",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Thomas Walkup",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Tornike Shengelia",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Frank Ntilikina",
+            "status": "likely_out"
+          },
+          {
+            "club": "PRS",
+            "player": "Nadir Hifi",
+            "status": "likely_out"
+          },
+          {
+            "club": "PRS",
+            "player": "T.J. Warren",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T16:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 178.0,
+        "line": 179.0,
+        "odds": 1.92,
+        "side": "under"
+      },
+      "view_line": -9.5
+    }
+  ],
+  "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
+  "round": 8,
+  "season": "E2026"
+}

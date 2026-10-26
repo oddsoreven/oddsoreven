@@ -1,0 +1,117 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "PRS",
+      "away_name": "Paris Basketball",
+      "call": {
+        "handicap": {
+          "away": 1.984,
+          "home": 2.016,
+          "line": -9.5
+        },
+        "moneyline": {
+          "away": 4.822,
+          "home": 1.262
+        },
+        "total": {
+          "line": 178.5,
+          "over": 2.036,
+          "under": 1.965
+        }
+      },
+      "home": "DUB",
+      "home_name": "Dubai Basketball",
+      "id": "E2026-R08-DUB-PRS",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-26T17:17:42Z",
+        "handicap": {
+          "away": 1.99,
+          "home": 1.86,
+          "line": -9.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 4.75,
+          "home": 1.21,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 179.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.92
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-26T16:42:16Z",
+        "away": 1.909,
+        "home": 1.935,
+        "line": -10.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-26T16:42:16Z",
+        "line": 179.0,
+        "over": 1.935,
+        "under": 1.917
+      },
+      "saved_at": "2026-10-26T17:11:12Z",
+      "team_news": {
+        "as_of": "2026-10-26T15:00:00Z",
+        "players": [
+          {
+            "club": "DUB",
+            "player": "Justin Anderson",
+            "status": "likely_out"
+          },
+          {
+            "club": "DUB",
+            "player": "Klemen Prepelic",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Thomas Walkup",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Tornike Shengelia",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Frank Ntilikina",
+            "status": "likely_out"
+          },
+          {
+            "club": "PRS",
+            "player": "Nadir Hifi",
+            "status": "likely_out"
+          },
+          {
+            "club": "PRS",
+            "player": "T.J. Warren",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-27T16:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 178.0,
+        "line": 179.0,
+        "odds": 1.92,
+        "side": "under"
+      },
+      "view_line": -9.5
+    }
+  ],
+  "published_at": "2026-10-26T17:17:44Z",
+  "round": 8,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
