@@ -798,6 +798,199 @@
         "odds": 1.93,
         "side": "under"
       }
+    },
+    {
+      "away": "PAR",
+      "away_name": "Partizan",
+      "call": {
+        "handicap": {
+          "away": 1.995,
+          "home": 2.005,
+          "line": -2.0,
+          "push_chance": 0.0389
+        },
+        "moneyline": {
+          "away": 2.244,
+          "home": 1.804
+        },
+        "total": {
+          "line": 168.0,
+          "over": 2.016,
+          "push_chance": 0.0239,
+          "under": 1.985
+        }
+      },
+      "file": "data/euroleague/E2026/R08/calls/20261027T173108Z.json",
+      "format": 2,
+      "home": "ASV",
+      "home_name": "ASVEL",
+      "id": "E2026-R08-ASV-PAR",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.94,
+          "home": 1.91,
+          "line": -1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.03,
+          "home": 1.83,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 168.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-27T17:18:13Z",
+        "away": 1.943,
+        "home": 1.909,
+        "line": -1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T17:18:13Z",
+        "line": 168.0,
+        "over": 1.926,
+        "under": 1.926
+      },
+      "published_at": "2026-10-27T17:31:08Z",
+      "saved_at": "2026-10-27T17:21:23Z",
+      "sha256": "ca83bea9cb1d1baf47b5bca4639a0de4422af8e56c7a17b9d6d7b242e5a94442",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "ASV",
+            "player": "Mathis Dossou-Yovo",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Juhann Begarin",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAR",
+            "player": "Tonye Jekiri",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Vanja Marinkovic",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T19:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 167.5
+    },
+    {
+      "away": "ZAL",
+      "away_name": "Zalgiris",
+      "call": {
+        "handicap": {
+          "away": 1.964,
+          "home": 2.037,
+          "line": 1.0,
+          "push_chance": 0.0358
+        },
+        "moneyline": {
+          "away": 1.899,
+          "home": 2.113
+        },
+        "total": {
+          "line": 172.0,
+          "over": 2.065,
+          "push_chance": 0.0232,
+          "under": 1.939
+        }
+      },
+      "file": "data/euroleague/E2026/R08/calls/20261027T173108Z.json",
+      "format": 2,
+      "home": "VIR",
+      "home_name": "Virtus Bologna",
+      "id": "E2026-R08-VIR-ZAL",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.96,
+          "home": 1.88,
+          "line": 1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.89,
+          "home": 1.96,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-27T17:23:10Z",
+        "away": 1.96,
+        "home": 1.88,
+        "line": 1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T17:23:10Z",
+        "line": 171.5,
+        "over": 1.93,
+        "under": 1.93
+      },
+      "published_at": "2026-10-27T17:31:08Z",
+      "saved_at": "2026-10-27T17:26:10Z",
+      "sha256": "ca83bea9cb1d1baf47b5bca4639a0de4422af8e56c7a17b9d6d7b242e5a94442",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "ZAL",
+            "player": "Deividas Sirvydis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Dovydas Giedraitis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Marek Blazevic",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T19:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 172.0,
+        "line": 171.5,
+        "odds": 1.93,
+        "side": "over"
+      },
+      "view_line": 1.0
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",

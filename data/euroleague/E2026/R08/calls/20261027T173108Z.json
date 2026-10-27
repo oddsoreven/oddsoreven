@@ -1,0 +1,196 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "PAR",
+      "away_name": "Partizan",
+      "call": {
+        "handicap": {
+          "away": 1.995,
+          "home": 2.005,
+          "line": -2.0,
+          "push_chance": 0.0389
+        },
+        "moneyline": {
+          "away": 2.244,
+          "home": 1.804
+        },
+        "total": {
+          "line": 168.0,
+          "over": 2.016,
+          "push_chance": 0.0239,
+          "under": 1.985
+        }
+      },
+      "home": "ASV",
+      "home_name": "ASVEL",
+      "id": "E2026-R08-ASV-PAR",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.94,
+          "home": 1.91,
+          "line": -1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.03,
+          "home": 1.83,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 168.0,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-27T17:18:13Z",
+        "away": 1.943,
+        "home": 1.909,
+        "line": -1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T17:18:13Z",
+        "line": 168.0,
+        "over": 1.926,
+        "under": 1.926
+      },
+      "saved_at": "2026-10-27T17:21:23Z",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "ASV",
+            "player": "Mathis Dossou-Yovo",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Juhann Begarin",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAR",
+            "player": "Tonye Jekiri",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Vanja Marinkovic",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T19:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 167.5
+    },
+    {
+      "away": "ZAL",
+      "away_name": "Zalgiris",
+      "call": {
+        "handicap": {
+          "away": 1.964,
+          "home": 2.037,
+          "line": 1.0,
+          "push_chance": 0.0358
+        },
+        "moneyline": {
+          "away": 1.899,
+          "home": 2.113
+        },
+        "total": {
+          "line": 172.0,
+          "over": 2.065,
+          "push_chance": 0.0232,
+          "under": 1.939
+        }
+      },
+      "home": "VIR",
+      "home_name": "Virtus Bologna",
+      "id": "E2026-R08-VIR-ZAL",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.96,
+          "home": 1.88,
+          "line": 1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.89,
+          "home": 1.96,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.93,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-27T17:23:10Z",
+        "away": 1.96,
+        "home": 1.88,
+        "line": 1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T17:23:10Z",
+        "line": 171.5,
+        "over": 1.93,
+        "under": 1.93
+      },
+      "saved_at": "2026-10-27T17:26:10Z",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "ZAL",
+            "player": "Deividas Sirvydis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Dovydas Giedraitis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Marek Blazevic",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T19:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 172.0,
+        "line": 171.5,
+        "odds": 1.93,
+        "side": "over"
+      },
+      "view_line": 1.0
+    }
+  ],
+  "published_at": "2026-10-27T17:31:08Z",
+  "round": 8,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
