@@ -1,0 +1,233 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "OLY",
+      "away_name": "Olympiacos",
+      "call": {
+        "handicap": {
+          "away": 2.606,
+          "home": 1.623,
+          "line": 1.0,
+          "rebuilt_at_publish": true
+        },
+        "moneyline": {
+          "away": 1.809,
+          "home": 2.236
+        },
+        "total": {
+          "line": 172.0,
+          "over": 2.089,
+          "push_chance": 0.0235,
+          "under": 1.918
+        }
+      },
+      "home": "BES",
+      "home_name": "Besiktas",
+      "id": "E2026-R08-BES-OLY",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.91,
+          "home": 1.94,
+          "line": 1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.86,
+          "home": 2.0,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 170.5,
+          "over": 1.87,
+          "source": "Pinnacle",
+          "under": 1.99
+        }
+      },
+      "pick": {
+        "expected_close": 1.0,
+        "line": 1.5,
+        "odds": 1.94,
+        "side": "home",
+        "team": "BES"
+      },
+      "pinnacle": {
+        "at": "2026-10-27T16:40:09Z",
+        "away": 1.943,
+        "home": 1.901,
+        "line": 2.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T16:40:09Z",
+        "line": 171.5,
+        "over": 1.943,
+        "under": 1.909
+      },
+      "saved_at": "2026-10-27T17:10:25Z",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "BES",
+            "player": "DaQuan Jeffries",
+            "status": "out"
+          },
+          {
+            "club": "BES",
+            "player": "Lonnie Walker IV",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Evan Fournier",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Nikola Milutinov",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Nikolaos Plotas",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Bryant Dunston",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T17:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 171.0,
+        "line": 170.5,
+        "odds": 1.87,
+        "side": "over"
+      }
+    },
+    {
+      "away": "IST",
+      "away_name": "Anadolu Efes",
+      "call": {
+        "handicap": {
+          "away": 2.02,
+          "home": 1.98,
+          "line": -7.0,
+          "push_chance": 0.0355
+        },
+        "moneyline": {
+          "away": 3.716,
+          "home": 1.368
+        },
+        "total": {
+          "line": 171.5,
+          "over": 2.018,
+          "under": 1.982
+        }
+      },
+      "home": "HTA",
+      "home_name": "Hapoel Tel Aviv",
+      "id": "E2026-R08-HTA-IST",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-27T17:23:10Z",
+        "handicap": {
+          "away": 1.93,
+          "home": 1.92,
+          "line": -6.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.23,
+          "home": 1.37,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 172.0,
+          "over": 1.92,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pick": {
+        "expected_close": -7.0,
+        "line": -6.5,
+        "odds": 1.92,
+        "side": "home",
+        "team": "HTA"
+      },
+      "pinnacle": {
+        "at": "2026-10-27T16:40:09Z",
+        "away": 1.935,
+        "home": 1.917,
+        "line": -6.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-27T16:40:09Z",
+        "line": 172.0,
+        "over": 1.917,
+        "under": 1.935
+      },
+      "saved_at": "2026-10-27T17:12:38Z",
+      "team_news": {
+        "as_of": "2026-10-27T15:00:00Z",
+        "players": [
+          {
+            "club": "HTA",
+            "player": "Bar Timor",
+            "status": "likely_out"
+          },
+          {
+            "club": "IST",
+            "player": "Georgios Papagiannis",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "Isaia Cordinier",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "Mike James",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "P.J. Dozier",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-28T18:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 171.5,
+        "line": 172.0,
+        "odds": 1.93,
+        "side": "under"
+      }
+    }
+  ],
+  "published_at": "2026-10-27T17:23:11Z",
+  "round": 8,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
