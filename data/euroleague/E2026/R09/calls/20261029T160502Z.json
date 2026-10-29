@@ -1,0 +1,678 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "HTA",
+      "away_name": "Hapoel Tel Aviv",
+      "call": {
+        "handicap": {
+          "away": 2.061,
+          "home": 1.942,
+          "line": -2.5
+        },
+        "moneyline": {
+          "away": 2.424,
+          "home": 1.702
+        },
+        "total": {
+          "line": 174.5,
+          "over": 2.077,
+          "under": 1.929
+        }
+      },
+      "home": "DUB",
+      "home_name": "Dubai Basketball",
+      "id": "E2026-R09-DUB-HTA",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.92,
+          "home": 1.88,
+          "line": -3.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.29,
+          "home": 1.63,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.87,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pick": {
+        "expected_close": 2.0,
+        "line": 3.0,
+        "odds": 1.92,
+        "side": "away",
+        "team": "HTA"
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:17:50Z",
+        "away": 1.917,
+        "home": 1.885,
+        "line": -3.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:17:50Z",
+        "line": 174.0,
+        "over": 1.926,
+        "under": 1.877
+      },
+      "saved_at": "2026-10-29T15:23:08Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "DUB",
+            "player": "Justin Anderson",
+            "status": "out"
+          },
+          {
+            "club": "DUB",
+            "player": "Thomas Walkup",
+            "status": "out"
+          },
+          {
+            "club": "HTA",
+            "player": "Bar Timor",
+            "status": "likely_out"
+          },
+          {
+            "club": "HTA",
+            "player": "Tomer Ginat",
+            "status": "doubtful"
+          },
+          {
+            "club": "HTA",
+            "player": "Vasilije Micic",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T16:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 174.0,
+        "line": 173.5,
+        "odds": 1.87,
+        "side": "over"
+      }
+    },
+    {
+      "away": "PAN",
+      "away_name": "Panathinaikos",
+      "call": {
+        "handicap": {
+          "away": 1.977,
+          "home": 2.023,
+          "line": 5.0,
+          "push_chance": 0.037
+        },
+        "moneyline": {
+          "away": 1.502,
+          "home": 2.991
+        },
+        "total": {
+          "line": 163.0,
+          "over": 1.978,
+          "push_chance": 0.0255,
+          "under": 2.023
+        }
+      },
+      "home": "IST",
+      "home_name": "Anadolu Efes",
+      "id": "E2026-R09-IST-PAN",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": 5.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.45,
+          "home": 2.76,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 164.0,
+          "over": 1.92,
+          "source": "Pinnacle",
+          "under": 1.88
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:17:50Z",
+        "away": 1.917,
+        "home": 1.885,
+        "line": 5.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:17:50Z",
+        "line": 164.0,
+        "over": 1.917,
+        "under": 1.885
+      },
+      "saved_at": "2026-10-29T15:32:14Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "IST",
+            "player": "Isaia Cordinier",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "Mike James",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "P.J. Dozier",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Nikos Rogkavopoulos",
+            "status": "likely_out"
+          },
+          {
+            "club": "PAN",
+            "player": "Eleftherios Mantzoukas",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T17:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 163.5
+    },
+    {
+      "away": "PAR",
+      "away_name": "Partizan",
+      "call": {
+        "handicap": {
+          "away": 2.024,
+          "home": 1.976,
+          "line": -7.0,
+          "push_chance": 0.0364
+        },
+        "moneyline": {
+          "away": 3.682,
+          "home": 1.373
+        },
+        "total": {
+          "line": 165.0,
+          "over": 2.064,
+          "push_chance": 0.0244,
+          "under": 1.94
+        }
+      },
+      "home": "ZAL",
+      "home_name": "Zalgiris",
+      "id": "E2026-R09-ZAL-PAR",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -6.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.26,
+          "home": 1.34,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 165.0,
+          "over": 1.97,
+          "source": "Pinnacle",
+          "under": 1.84
+        }
+      },
+      "pick": {
+        "expected_close": -7.0,
+        "line": -6.5,
+        "odds": 1.9,
+        "side": "home",
+        "team": "ZAL"
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:49:35Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -6.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:49:35Z",
+        "line": 164.5,
+        "over": 1.917,
+        "under": 1.885
+      },
+      "saved_at": "2026-10-29T15:51:20Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Tonye Jekiri",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Vanja Marinkovic",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T18:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 165.0
+    },
+    {
+      "away": "BAS",
+      "away_name": "Baskonia",
+      "call": {
+        "handicap": {
+          "away": 2.069,
+          "home": 1.935,
+          "line": -3.5
+        },
+        "moneyline": {
+          "away": 2.658,
+          "home": 1.603
+        },
+        "total": {
+          "line": 177.0,
+          "over": 2.01,
+          "push_chance": 0.0246,
+          "under": 1.99
+        }
+      },
+      "home": "ASV",
+      "home_name": "ASVEL",
+      "id": "E2026-R09-ASV-BAS",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.91,
+          "home": 1.89,
+          "line": -4.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.5,
+          "home": 1.53,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 177.0,
+          "over": 1.96,
+          "source": "Pinnacle",
+          "under": 1.84
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:49:35Z",
+        "away": 1.909,
+        "home": 1.893,
+        "line": -4.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:49:35Z",
+        "line": 176.5,
+        "over": 1.909,
+        "under": 1.893
+      },
+      "saved_at": "2026-10-29T15:51:15Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "ASV",
+            "player": "Mathis Dossou-Yovo",
+            "status": "out"
+          },
+          {
+            "club": "BAS",
+            "player": "Tadas Sedekerskis",
+            "status": "out"
+          },
+          {
+            "club": "BAS",
+            "player": "Chris Duarte",
+            "status": "likely_out"
+          },
+          {
+            "club": "BAS",
+            "player": "Rodions Kurucs",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T19:00:00Z",
+      "total_kind": "view",
+      "total_view_line": 177.0,
+      "view_line": -3.5
+    },
+    {
+      "away": "MIL",
+      "away_name": "Olimpia Milano",
+      "call": {
+        "handicap": {
+          "away": 2.004,
+          "home": 1.996,
+          "line": -10.0,
+          "push_chance": 0.0371
+        },
+        "moneyline": {
+          "away": 5.359,
+          "home": 1.229
+        },
+        "total": {
+          "line": 167.5,
+          "over": 2.815,
+          "rebuilt_at_publish": true,
+          "under": 1.551
+        }
+      },
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R09-OLY-MIL",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.83,
+          "home": 1.98,
+          "line": -11.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 5.37,
+          "home": 1.16,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 168.0,
+          "over": 1.85,
+          "source": "Pinnacle",
+          "under": 1.95
+        }
+      },
+      "pick": {
+        "expected_close": 10.5,
+        "line": 11.0,
+        "odds": 1.83,
+        "side": "away",
+        "team": "MIL"
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:49:35Z",
+        "away": 1.901,
+        "home": 1.893,
+        "line": -10.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:49:35Z",
+        "line": 168.5,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "saved_at": "2026-10-29T15:51:30Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Evan Fournier",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Nikola Milutinov",
+            "status": "doubtful"
+          },
+          {
+            "club": "MIL",
+            "player": "Alec Peters",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T19:15:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 167.0,
+        "line": 168.0,
+        "odds": 1.95,
+        "side": "under"
+      }
+    },
+    {
+      "away": "PAM",
+      "away_name": "Valencia Basket",
+      "call": {
+        "handicap": {
+          "away": 1.987,
+          "home": 2.013,
+          "line": -3.5
+        },
+        "moneyline": {
+          "away": 2.498,
+          "home": 1.668
+        },
+        "total": {
+          "line": 182.5,
+          "over": 1.98,
+          "under": 2.02
+        }
+      },
+      "home": "BAR",
+      "home_name": "Barcelona",
+      "id": "E2026-R09-BAR-PAM",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.88,
+          "home": 1.93,
+          "line": -2.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.14,
+          "home": 1.71,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 183.0,
+          "over": 1.88,
+          "source": "Pinnacle",
+          "under": 1.92
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:49:35Z",
+        "away": 1.877,
+        "home": 1.926,
+        "line": -2.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:49:35Z",
+        "line": 183.0,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "saved_at": "2026-10-29T15:55:10Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "BAR",
+            "player": "Juan Nunez",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Yoan Makoundou",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Joel Parra",
+            "status": "doubtful"
+          },
+          {
+            "club": "BAR",
+            "player": "Umoja Gibson",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAM",
+            "player": "Nate Reuvers",
+            "status": "out"
+          },
+          {
+            "club": "PAM",
+            "player": "Nikola Mirotic",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T19:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 182.5
+    },
+    {
+      "away": "BES",
+      "away_name": "Besiktas",
+      "call": {
+        "handicap": {
+          "away": 2.03,
+          "home": 1.971,
+          "line": -4.0,
+          "push_chance": 0.0384
+        },
+        "moneyline": {
+          "away": 2.726,
+          "home": 1.579
+        },
+        "total": {
+          "line": 175.5,
+          "over": 2.01,
+          "under": 1.99
+        }
+      },
+      "home": "VIR",
+      "home_name": "Virtus Bologna",
+      "id": "E2026-R09-VIR-BES",
+      "kind": "pick",
+      "market": {
+        "at": "2026-10-29T16:03:08Z",
+        "handicap": {
+          "away": 1.88,
+          "home": 1.92,
+          "line": -4.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.56,
+          "home": 1.51,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 176.0,
+          "over": 1.99,
+          "source": "Pinnacle",
+          "under": 1.82
+        }
+      },
+      "pick": {
+        "expected_close": 4.0,
+        "line": 4.5,
+        "odds": 1.88,
+        "side": "away",
+        "team": "BES"
+      },
+      "pinnacle": {
+        "at": "2026-10-29T15:49:35Z",
+        "away": 1.885,
+        "home": 1.917,
+        "line": -4.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T15:49:35Z",
+        "line": 175.0,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "saved_at": "2026-10-29T15:52:54Z",
+      "team_news": {
+        "as_of": "2026-10-29T15:01:00Z",
+        "players": [
+          {
+            "club": "VIR",
+            "player": "Tommaso Baldasso",
+            "status": "out"
+          },
+          {
+            "club": "BES",
+            "player": "DaQuan Jeffries",
+            "status": "out"
+          },
+          {
+            "club": "BES",
+            "player": "Devon Dotson",
+            "status": "doubtful"
+          },
+          {
+            "club": "BES",
+            "player": "Lonnie Walker IV",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-30T19:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 175.5
+    }
+  ],
+  "published_at": "2026-10-29T16:05:02Z",
+  "round": 9,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
