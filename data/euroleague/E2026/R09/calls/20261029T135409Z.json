@@ -1,0 +1,276 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "MUN",
+      "away_name": "Bayern Munich",
+      "call": {
+        "handicap": {
+          "away": 2.059,
+          "home": 1.944,
+          "line": -8.0,
+          "push_chance": 0.036
+        },
+        "moneyline": {
+          "away": 4.246,
+          "home": 1.308
+        },
+        "total": {
+          "line": 169.5,
+          "over": 1.997,
+          "under": 2.003
+        }
+      },
+      "home": "RED",
+      "home_name": "Crvena Zvezda",
+      "id": "E2026-R09-RED-MUN",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-29T13:48:00Z",
+        "handicap": {
+          "away": 1.95,
+          "home": 1.9,
+          "line": -7.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.65,
+          "home": 1.31,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 170.0,
+          "over": 2.0,
+          "source": "Pinnacle",
+          "under": 1.86
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T12:47:50Z",
+        "away": 1.952,
+        "home": 1.901,
+        "line": -7.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T12:47:50Z",
+        "line": 170.0,
+        "over": 1.952,
+        "under": 1.901
+      },
+      "saved_at": "2026-10-29T13:29:30Z",
+      "team_news": {
+        "as_of": "2026-10-29T11:01:00Z",
+        "players": [
+          {
+            "club": "RED",
+            "player": "Stefan Miljenovic",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-29T19:00:00Z",
+      "total_kind": "level",
+      "view_line": -8.0
+    },
+    {
+      "away": "PRS",
+      "away_name": "Paris Basketball",
+      "call": {
+        "handicap": {
+          "away": 1.986,
+          "home": 2.014,
+          "line": -4.0,
+          "push_chance": 0.037
+        },
+        "moneyline": {
+          "away": 2.631,
+          "home": 1.613
+        },
+        "total": {
+          "line": 184.5,
+          "over": 2.029,
+          "under": 1.972
+        }
+      },
+      "home": "TEL",
+      "home_name": "Maccabi Tel Aviv",
+      "id": "E2026-R09-TEL-PRS",
+      "kind": "level",
+      "market": {
+        "at": "2026-10-29T13:48:00Z",
+        "handicap": {
+          "away": 1.89,
+          "home": 1.96,
+          "line": -4.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.46,
+          "home": 1.58,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 184.0,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.95
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T13:48:00Z",
+        "away": 1.89,
+        "home": 1.96,
+        "line": -4.0
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T13:48:00Z",
+        "line": 184.0,
+        "over": 1.9,
+        "under": 1.95
+      },
+      "saved_at": "2026-10-29T13:50:44Z",
+      "team_news": {
+        "as_of": "2026-10-29T11:01:00Z",
+        "players": [
+          {
+            "club": "TEL",
+            "player": "Gabriel Lundberg",
+            "status": "out"
+          },
+          {
+            "club": "TEL",
+            "player": "John Dibartolomeo",
+            "status": "out"
+          },
+          {
+            "club": "TEL",
+            "player": "Gur Lavi",
+            "status": "likely_out"
+          },
+          {
+            "club": "PRS",
+            "player": "Daulton Hommes",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Frank Ntilikina",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "T.J. Warren",
+            "status": "doubtful"
+          },
+          {
+            "club": "PRS",
+            "player": "Tyson Etienne",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-29T19:05:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 184.5,
+        "line": 184.0,
+        "odds": 1.9,
+        "side": "over"
+      }
+    },
+    {
+      "away": "ULK",
+      "away_name": "Fenerbahce",
+      "call": {
+        "handicap": {
+          "away": 2.067,
+          "home": 1.938,
+          "line": -5.0,
+          "push_chance": 0.0363
+        },
+        "moneyline": {
+          "away": 3.073,
+          "home": 1.482
+        },
+        "total": {
+          "line": 173.0,
+          "over": 2.12,
+          "push_chance": 0.0254,
+          "under": 1.893
+        }
+      },
+      "home": "MAD",
+      "home_name": "Real Madrid",
+      "id": "E2026-R09-MAD-ULK",
+      "kind": "view",
+      "market": {
+        "at": "2026-10-29T13:48:00Z",
+        "handicap": {
+          "away": 1.97,
+          "home": 1.88,
+          "line": -5.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.02,
+          "home": 1.41,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.97,
+          "source": "Pinnacle",
+          "under": 1.88
+        }
+      },
+      "pinnacle": {
+        "at": "2026-10-29T13:48:00Z",
+        "away": 1.97,
+        "home": 1.88,
+        "line": -5.5
+      },
+      "pinnacle_total": {
+        "at": "2026-10-29T13:48:00Z",
+        "line": 173.5,
+        "over": 1.97,
+        "under": 1.88
+      },
+      "saved_at": "2026-10-29T13:50:49Z",
+      "team_news": {
+        "as_of": "2026-10-29T11:01:00Z",
+        "players": [
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Nick Smith Jr.",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-10-29T19:45:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 173.0,
+        "line": 173.5,
+        "odds": 1.88,
+        "side": "under"
+      },
+      "view_line": -5.0
+    }
+  ],
+  "published_at": "2026-10-29T13:54:09Z",
+  "round": 9,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
