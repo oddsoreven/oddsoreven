@@ -1,0 +1,114 @@
+{
+  "E2026-R09-MAD-ULK": {
+    "close": {
+      "at": "2026-10-29T19:34:35Z",
+      "away": 1.901,
+      "home": 1.943,
+      "line": -6.0,
+      "minutes_before": 10,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 76,
+      "home": 95
+    },
+    "format": 2,
+    "line": {
+      "close": -6.0,
+      "nearer_close": false,
+      "nearer_result": false,
+      "ours": -5.0,
+      "pinnacle_at_save": -5.5
+    },
+    "moneyline": {
+      "home_prob": 0.6748,
+      "home_won": true
+    },
+    "result": {
+      "margin": 19,
+      "total": 171
+    },
+    "total_close": {
+      "at": "2026-10-29T19:34:35Z",
+      "line": 172.5
+    },
+    "total_pick": {
+      "close_line": 172.5,
+      "close_reached": true,
+      "clv": 1.0,
+      "outcome": "W",
+      "units": 0.88
+    }
+  },
+  "E2026-R09-RED-MUN": {
+    "close": {
+      "at": "2026-10-29T18:57:05Z",
+      "away": 1.901,
+      "home": 1.943,
+      "line": -7.5,
+      "minutes_before": 3,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 73,
+      "home": 103
+    },
+    "format": 2,
+    "line": {
+      "close": -7.5,
+      "nearer_close": false,
+      "nearer_result": true,
+      "ours": -8.0,
+      "pinnacle_at_save": -7.5
+    },
+    "moneyline": {
+      "home_prob": 0.7645,
+      "home_won": true
+    },
+    "result": {
+      "margin": 30,
+      "total": 176
+    }
+  },
+  "E2026-R09-TEL-PRS": {
+    "close": {
+      "at": "2026-10-29T19:04:35Z",
+      "away": 1.909,
+      "home": 1.943,
+      "line": -4.0,
+      "minutes_before": 0,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 99,
+      "home": 94
+    },
+    "format": 2,
+    "line": {
+      "close": -4.0,
+      "nearer_close": null,
+      "nearer_result": null,
+      "ours": -4.0,
+      "pinnacle_at_save": -4.0
+    },
+    "moneyline": {
+      "home_prob": 0.62,
+      "home_won": false
+    },
+    "result": {
+      "margin": -5,
+      "total": 193
+    },
+    "total_close": {
+      "at": "2026-10-29T19:04:35Z",
+      "line": 186.5
+    },
+    "total_pick": {
+      "close_line": 186.5,
+      "close_reached": true,
+      "clv": 2.5,
+      "outcome": "W",
+      "units": 0.9
+    }
+  }
+}
