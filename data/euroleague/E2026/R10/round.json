@@ -1,0 +1,129 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "PAN",
+      "away_name": "Panathinaikos",
+      "call": {
+        "handicap": {
+          "away": 2.008,
+          "home": 1.992,
+          "line": -0.5
+        },
+        "moneyline": {
+          "away": 2.008,
+          "home": 1.992
+        },
+        "total": {
+          "line": 169.0,
+          "over": 2.041,
+          "push_chance": 0.0244,
+          "under": 1.961
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261103T151402Z.json",
+      "format": 2,
+      "home": "MAD",
+      "home_name": "Real Madrid",
+      "id": "E2026-R10-MAD-PAN",
+      "kind": "level",
+      "market": {
+        "at": "2026-11-03T15:12:31Z",
+        "handicap": {
+          "away": 1.8,
+          "home": 2.02,
+          "line": -1.5,
+          "source": "European consensus (3 books)"
+        },
+        "moneyline": {
+          "away": 1.88,
+          "home": 1.91,
+          "source": "European consensus (17 books)"
+        },
+        "total": {
+          "line": 168.5,
+          "over": 1.87,
+          "source": "European consensus (6 books)",
+          "under": 1.91
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-03T15:02:58Z",
+        "away": 1.855,
+        "home": 1.943,
+        "line": -1.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-03T15:02:58Z",
+        "line": 169.5,
+        "over": 1.893,
+        "under": 1.909
+      },
+      "published_at": "2026-11-03T15:14:02Z",
+      "saved_at": "2026-11-03T15:07:50Z",
+      "sha256": "50e8105ca553521f5d1f508a0044b16686d9d49aab3d75adfb1331504688c7a6",
+      "team_news": {
+        "as_of": "2026-11-03T15:03:00Z",
+        "players": [
+          {
+            "club": "MAD",
+            "player": "Facundo Campazzo",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Mikael Jantunen",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Theo Maledon",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Dimitris Moraitis",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Eleftherios Mantzoukas",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Iason Varvaritis",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Nikos Rogkavopoulos",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-04T19:45:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 169.0,
+        "line": 169.5,
+        "odds": 1.909,
+        "side": "under"
+      }
+    }
+  ],
+  "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
+  "round": 10,
+  "season": "E2026"
+}
