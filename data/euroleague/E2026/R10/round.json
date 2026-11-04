@@ -625,6 +625,108 @@
       "tip_utc": "2026-11-05T19:00:00Z",
       "total_kind": "view",
       "total_view_line": 176.0
+    },
+    {
+      "away": "PAM",
+      "away_name": "Valencia Basket",
+      "call": {
+        "handicap": {
+          "away": 1.939,
+          "home": 2.064,
+          "line": 2.5
+        },
+        "moneyline": {
+          "away": 1.702,
+          "home": 2.425
+        },
+        "total": {
+          "line": 179.0,
+          "over": 2.031,
+          "push_chance": 0.0237,
+          "under": 1.97
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261104T151107Z.json",
+      "format": 2,
+      "home": "MIL",
+      "home_name": "Olimpia Milano",
+      "id": "E2026-R10-MIL-PAM",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-04T15:07:02Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": 2.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.76,
+          "home": 2.07,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 178.5,
+          "over": 1.87,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pick": {
+        "expected_close": -2.5,
+        "line": -2.0,
+        "odds": 1.9,
+        "side": "away",
+        "team": "PAM"
+      },
+      "pinnacle": {
+        "at": "2026-11-04T15:07:02Z",
+        "away": 1.9,
+        "home": 1.9,
+        "line": 2.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-04T15:07:02Z",
+        "line": 178.5,
+        "over": 1.87,
+        "under": 1.93
+      },
+      "published_at": "2026-11-04T15:11:07Z",
+      "saved_at": "2026-11-04T15:08:56Z",
+      "sha256": "fa20261e02444e4b43f6a933d6687c6adf8638aa234a450e510b156762c10da0",
+      "team_news": {
+        "as_of": "2026-11-04T15:02:00Z",
+        "players": [
+          {
+            "club": "MIL",
+            "player": "Devin Booker",
+            "status": "out"
+          },
+          {
+            "club": "MIL",
+            "player": "Leandro Bolmaro",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAM",
+            "player": "Nikola Mirotic",
+            "status": "out"
+          },
+          {
+            "club": "PAM",
+            "player": "Nate Reuvers",
+            "status": "likely_out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-05T19:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 179.0,
+        "line": 178.5,
+        "odds": 1.87,
+        "side": "over"
+      }
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
