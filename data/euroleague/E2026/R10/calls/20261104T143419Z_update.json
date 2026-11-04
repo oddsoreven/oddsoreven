@@ -1,0 +1,128 @@
+{
+  "competition": "EuroLeague",
+  "games": [
+    {
+      "away": "PAN",
+      "away_name": "Panathinaikos",
+      "call": {
+        "handicap": {
+          "away": 1.912,
+          "home": 2.096,
+          "line": 1.5
+        },
+        "moneyline": {
+          "away": 1.798,
+          "home": 2.254
+        },
+        "total": {
+          "line": 171.5,
+          "over": 2.066,
+          "under": 1.938
+        }
+      },
+      "change": "Real Madrid -0.5 -> +1.5, total 169.0 -> 171.5, Real Madrid win 50% -> 44%",
+      "home": "MAD",
+      "home_name": "Real Madrid",
+      "id": "E2026-R10-MAD-PAN",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-04T14:34:19Z",
+        "handicap": {
+          "away": 2.02,
+          "home": 1.87,
+          "line": 2.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.79,
+          "home": 2.12,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 172.0,
+          "over": 1.94,
+          "source": "Pinnacle",
+          "under": 1.94
+        }
+      },
+      "pick": {
+        "expected_close": 2.0,
+        "late": true,
+        "line": 2.5,
+        "odds": 1.87,
+        "side": "home",
+        "team": "MAD"
+      },
+      "pinnacle": {
+        "at": "2026-11-04T14:22:12Z",
+        "away": 1.943,
+        "home": 1.935,
+        "line": 2.0
+      },
+      "reason": {
+        "en": "Line moved to Real Madrid +2",
+        "es": "Línea movida a Real Madrid +2",
+        "it": "Linea mossa a Real Madrid +2"
+      },
+      "saved_at": "2026-11-04T14:23:49.148Z",
+      "team_news": {
+        "as_of": "2026-11-04T07:02:00Z",
+        "players": [
+          {
+            "club": "MAD",
+            "player": "Facundo Campazzo",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Mikael Jantunen",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Theo Maledon",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Dimitris Moraitis",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Eleftherios Mantzoukas",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Iason Varvaritis",
+            "status": "out"
+          },
+          {
+            "club": "PAN",
+            "player": "Nikos Rogkavopoulos",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-04T19:45:00Z",
+      "update_of": "data/euroleague/E2026/R10/calls/20261103T151402Z.json"
+    }
+  ],
+  "published_at": "2026-11-04T14:34:19Z",
+  "round": 10,
+  "season": "E2026",
+  "stage": "update",
+  "terms": "A news update to a published line. The original call is unchanged in its own file. Fair odds, no margin.",
+  "type": "update"
+}
