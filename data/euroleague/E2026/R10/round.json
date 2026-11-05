@@ -727,6 +727,405 @@
         "odds": 1.87,
         "side": "over"
       }
+    },
+    {
+      "away": "ZAL",
+      "away_name": "Zalgiris",
+      "call": {
+        "handicap": {
+          "away": 1.964,
+          "home": 2.037,
+          "line": 1.5
+        },
+        "moneyline": {
+          "away": 1.829,
+          "home": 2.206
+        },
+        "total": {
+          "line": 174.0,
+          "over": 2.055,
+          "push_chance": 0.0237,
+          "under": 1.948
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261105T165051Z.json",
+      "format": 2,
+      "home": "BES",
+      "home_name": "Besiktas",
+      "id": "E2026-R10-BES-ZAL",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-05T16:50:13Z",
+        "handicap": {
+          "away": 1.89,
+          "home": 1.91,
+          "line": 1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.81,
+          "home": 2.0,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.91,
+          "source": "Pinnacle",
+          "under": 1.89
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-05T15:57:02Z",
+        "away": 1.87,
+        "home": 1.935,
+        "line": 1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-05T15:57:02Z",
+        "line": 173.5,
+        "over": 1.909,
+        "under": 1.893
+      },
+      "published_at": "2026-11-05T16:50:51Z",
+      "saved_at": "2026-11-05T16:11:28Z",
+      "sha256": "ba5e6125354af3328243bc1c334480fe1a52e5c1c4c4a5b62c833b92b0092923",
+      "team_news": {
+        "as_of": "2026-11-05T15:02:00Z",
+        "players": [
+          {
+            "club": "BES",
+            "player": "DaQuan Jeffries",
+            "status": "doubtful"
+          },
+          {
+            "club": "BES",
+            "player": "Devon Dotson",
+            "status": "doubtful"
+          },
+          {
+            "club": "ZAL",
+            "player": "Deividas Sirvydis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Dovydas Giedraitis",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Marek Blazevic",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-06T17:00:00Z",
+      "total_kind": "level",
+      "view_line": 1.0
+    },
+    {
+      "away": "RED",
+      "away_name": "Crvena Zvezda",
+      "call": {
+        "handicap": {
+          "away": 2.033,
+          "home": 1.969,
+          "line": -6.5
+        },
+        "moneyline": {
+          "away": 3.592,
+          "home": 1.386
+        },
+        "total": {
+          "line": 167.0,
+          "over": 2.028,
+          "push_chance": 0.0247,
+          "under": 1.972
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261105T165051Z.json",
+      "format": 2,
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R10-OLY-RED",
+      "kind": "level",
+      "market": {
+        "at": "2026-11-05T16:50:13Z",
+        "handicap": {
+          "away": 1.86,
+          "home": 1.94,
+          "line": -6.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.89,
+          "home": 1.42,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 167.5,
+          "over": 1.88,
+          "source": "Pinnacle",
+          "under": 1.92
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-05T16:28:17Z",
+        "away": 1.909,
+        "home": 1.893,
+        "line": -6.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-05T16:28:17Z",
+        "line": 167.5,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "published_at": "2026-11-05T16:50:51Z",
+      "saved_at": "2026-11-05T16:30:20Z",
+      "sha256": "ba5e6125354af3328243bc1c334480fe1a52e5c1c4c4a5b62c833b92b0092923",
+      "team_news": {
+        "as_of": "2026-11-05T15:02:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Georgios Bourneles",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Bryant Dunston",
+            "status": "doubtful"
+          },
+          {
+            "club": "RED",
+            "player": "Johnathan Motley",
+            "status": "out"
+          },
+          {
+            "club": "RED",
+            "player": "Stefan Miljenovic",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-06T19:15:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 167.0,
+        "line": 167.5,
+        "odds": 1.92,
+        "side": "under"
+      }
+    },
+    {
+      "away": "DUB",
+      "away_name": "Dubai Basketball",
+      "call": {
+        "handicap": {
+          "away": 2.431,
+          "home": 1.699,
+          "line": 2.5,
+          "rebuilt_at_publish": true
+        },
+        "moneyline": {
+          "away": 1.652,
+          "home": 2.534
+        },
+        "total": {
+          "line": 175.5,
+          "over": 1.983,
+          "under": 2.018
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261105T165051Z.json",
+      "format": 2,
+      "home": "VIR",
+      "home_name": "Virtus Bologna",
+      "id": "E2026-R10-VIR-DUB",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-05T16:50:13Z",
+        "handicap": {
+          "away": 1.82,
+          "home": 1.99,
+          "line": 3.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.55,
+          "home": 2.45,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 175.0,
+          "over": 1.88,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pick": {
+        "expected_close": 2.5,
+        "line": 3.0,
+        "odds": 1.99,
+        "side": "home",
+        "team": "VIR"
+      },
+      "pinnacle": {
+        "at": "2026-11-05T16:34:32Z",
+        "away": 1.893,
+        "home": 1.901,
+        "line": 3.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-05T16:34:32Z",
+        "line": 175.0,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "published_at": "2026-11-05T16:50:51Z",
+      "saved_at": "2026-11-05T16:35:34Z",
+      "sha256": "ba5e6125354af3328243bc1c334480fe1a52e5c1c4c4a5b62c833b92b0092923",
+      "team_news": {
+        "as_of": "2026-11-05T15:02:00Z",
+        "players": [
+          {
+            "club": "VIR",
+            "player": "Tommaso Baldasso",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Justin Anderson",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Thomas Walkup",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-06T19:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 175.5
+    },
+    {
+      "away": "TEL",
+      "away_name": "Maccabi Tel Aviv",
+      "call": {
+        "handicap": {
+          "away": 2.049,
+          "home": 1.954,
+          "line": -5.0,
+          "push_chance": 0.0368
+        },
+        "moneyline": {
+          "away": 3.016,
+          "home": 1.496
+        },
+        "total": {
+          "line": 171.0,
+          "over": 2.002,
+          "push_chance": 0.0258,
+          "under": 1.998
+        }
+      },
+      "file": "data/euroleague/E2026/R10/calls/20261105T165051Z.json",
+      "format": 2,
+      "home": "PAR",
+      "home_name": "Partizan",
+      "id": "E2026-R10-PAR-TEL",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-05T16:50:13Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -4.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.55,
+          "home": 1.52,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.88,
+          "source": "Pinnacle",
+          "under": 1.93
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-05T16:47:02Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -4.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-05T16:47:02Z",
+        "line": 171.5,
+        "over": 1.877,
+        "under": 1.926
+      },
+      "published_at": "2026-11-05T16:50:51Z",
+      "saved_at": "2026-11-05T16:47:58Z",
+      "sha256": "ba5e6125354af3328243bc1c334480fe1a52e5c1c4c4a5b62c833b92b0092923",
+      "team_news": {
+        "as_of": "2026-11-05T15:02:00Z",
+        "players": [
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAR",
+            "player": "Tonye Jekiri",
+            "status": "doubtful"
+          },
+          {
+            "club": "TEL",
+            "player": "Gabriel Lundberg",
+            "status": "out"
+          },
+          {
+            "club": "TEL",
+            "player": "Gur Lavi",
+            "status": "doubtful"
+          },
+          {
+            "club": "TEL",
+            "player": "John Dibartolomeo",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-06T19:45:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 171.0,
+        "line": 171.5,
+        "odds": 1.93,
+        "side": "under"
+      },
+      "view_line": -5.0
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
