@@ -1,0 +1,91 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "ULK",
+      "away_name": "Fenerbahce",
+      "call": {
+        "handicap": {
+          "away": 2.716,
+          "home": 1.583,
+          "line": 5.0,
+          "rebuilt_at_publish": true
+        },
+        "moneyline": {
+          "away": 1.447,
+          "home": 3.235
+        },
+        "total": {
+          "line": 173.0,
+          "over": 2.29,
+          "rebuilt_at_publish": true,
+          "under": 1.775
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261110T161340Z.json",
+      "format": 2,
+      "home": "PRS",
+      "home_name": "Paris Basketball",
+      "id": "E2026-R11-PRS-ULK",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-10T16:13:15Z",
+        "handicap": {
+          "away": 1.84,
+          "home": 2.02,
+          "line": 5.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.38,
+          "home": 3.2,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.85,
+          "source": "Pinnacle",
+          "under": 2.01
+        }
+      },
+      "pick": {
+        "expected_close": 5.0,
+        "line": 5.5,
+        "odds": 2.02,
+        "side": "home",
+        "team": "PRS"
+      },
+      "pinnacle": {
+        "at": "2026-11-10T15:30:21Z",
+        "away": 1.901,
+        "home": 1.943,
+        "line": 6.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-10T15:30:21Z",
+        "line": 174.5,
+        "over": 1.943,
+        "under": 1.909
+      },
+      "published_at": "2026-11-10T16:13:40Z",
+      "saved_at": "2026-11-10T16:12:21Z",
+      "sha256": "941d8cdd3e95cdd85e44a3717207d9c5b36283aa6f42ee05518374645ab61fa8",
+      "team_news": {
+        "as_of": "2026-11-10T15:00:00Z",
+        "players": []
+      },
+      "tip_utc": "2026-11-11T19:45:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 173.0,
+        "line": 173.5,
+        "odds": 2.01,
+        "side": "under"
+      }
+    }
+  ],
+  "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
+  "round": 11,
+  "season": "E2026"
+}
