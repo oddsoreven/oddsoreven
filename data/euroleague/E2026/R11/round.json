@@ -3,6 +3,110 @@
   "format": 2,
   "games": [
     {
+      "away": "BAS",
+      "away_name": "Baskonia",
+      "call": {
+        "handicap": {
+          "away": 2.028,
+          "home": 1.973,
+          "line": -7.5
+        },
+        "moneyline": {
+          "away": 3.946,
+          "home": 1.339
+        },
+        "total": {
+          "line": 168.0,
+          "over": 1.986,
+          "push_chance": 0.0226,
+          "under": 2.014
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261110T162402Z.json",
+      "format": 2,
+      "home": "PAR",
+      "home_name": "Partizan",
+      "id": "E2026-R11-PAR-BAS",
+      "kind": "level",
+      "market": {
+        "at": "2026-11-10T16:13:15Z",
+        "handicap": {
+          "away": 1.92,
+          "home": 1.93,
+          "line": -8.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.94,
+          "home": 1.27,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 167.5,
+          "over": 1.89,
+          "source": "Pinnacle",
+          "under": 1.96
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-10T16:13:15Z",
+        "away": 1.92,
+        "home": 1.93,
+        "line": -8.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-10T16:13:15Z",
+        "line": 167.5,
+        "over": 1.89,
+        "under": 1.96
+      },
+      "published_at": "2026-11-10T16:24:02Z",
+      "saved_at": "2026-11-10T16:21:10Z",
+      "sha256": "b9b642c68e9d9aa217031d97fd22c6806773ea5450dbded50e0d3c861cf7100a",
+      "team_news": {
+        "as_of": "2026-11-10T15:00:00Z",
+        "players": [
+          {
+            "club": "PAR",
+            "player": "Kevarrius Hayes",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "likely_out"
+          },
+          {
+            "club": "PAR",
+            "player": "Tonye Jekiri",
+            "status": "likely_out"
+          },
+          {
+            "club": "PAR",
+            "player": "Luca Vildoza",
+            "status": "doubtful"
+          },
+          {
+            "club": "BAS",
+            "player": "Marcio Santos",
+            "status": "out"
+          },
+          {
+            "club": "BAS",
+            "player": "Tadas Sedekerskis",
+            "status": "out"
+          },
+          {
+            "club": "BAS",
+            "player": "Rodions Kurucs",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-11T19:45:00Z",
+      "total_kind": "level"
+    },
+    {
       "away": "ULK",
       "away_name": "Fenerbahce",
       "call": {
