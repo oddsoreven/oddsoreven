@@ -187,6 +187,490 @@
         "odds": 2.01,
         "side": "under"
       }
+    },
+    {
+      "away": "HTA",
+      "away_name": "Hapoel Tel Aviv",
+      "call": {
+        "handicap": {
+          "away": 1.957,
+          "home": 2.045,
+          "line": 4.5
+        },
+        "moneyline": {
+          "away": 1.535,
+          "home": 2.87
+        },
+        "total": {
+          "line": 182.0,
+          "over": 2.047,
+          "push_chance": 0.0244,
+          "under": 1.955
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261111T134838Z.json",
+      "format": 2,
+      "home": "TEL",
+      "home_name": "Maccabi Tel Aviv",
+      "id": "E2026-R11-TEL-HTA",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-11T13:48:03Z",
+        "handicap": {
+          "away": 1.91,
+          "home": 1.89,
+          "line": 5.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.44,
+          "home": 2.79,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 181.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.9
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-11T13:06:56Z",
+        "away": 1.909,
+        "home": 1.893,
+        "line": 5.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-11T13:06:56Z",
+        "line": 181.5,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "published_at": "2026-11-11T13:48:38Z",
+      "saved_at": "2026-11-11T13:22:32Z",
+      "sha256": "8afed44918f7effce114fe862adffe4ef85f65d5f335ead6fd24ec9ccb8ee008",
+      "team_news": {
+        "as_of": "2026-11-11T11:02:00Z",
+        "players": [
+          {
+            "club": "TEL",
+            "player": "Gabriel Lundberg",
+            "status": "out"
+          },
+          {
+            "club": "TEL",
+            "player": "Gur Lavi",
+            "status": "doubtful"
+          },
+          {
+            "club": "HTA",
+            "player": "Tomas Satoransky",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-12T19:05:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 182.0,
+        "line": 181.5,
+        "odds": 1.9,
+        "side": "over"
+      },
+      "view_line": 4.5
+    },
+    {
+      "away": "DUB",
+      "away_name": "Dubai Basketball",
+      "call": {
+        "handicap": {
+          "away": 2.048,
+          "home": 1.955,
+          "line": -6.0,
+          "push_chance": 0.0367
+        },
+        "moneyline": {
+          "away": 3.389,
+          "home": 1.419
+        },
+        "total": {
+          "line": 170.0,
+          "over": 2.042,
+          "push_chance": 0.024,
+          "under": 1.96
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261111T134838Z.json",
+      "format": 2,
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R11-OLY-DUB",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-11T13:48:03Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -5.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.97,
+          "home": 1.4,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 170.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.9
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-11T13:06:56Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -5.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-11T13:06:56Z",
+        "line": 170.5,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "published_at": "2026-11-11T13:48:38Z",
+      "saved_at": "2026-11-11T13:22:10Z",
+      "sha256": "8afed44918f7effce114fe862adffe4ef85f65d5f335ead6fd24ec9ccb8ee008",
+      "team_news": {
+        "as_of": "2026-11-11T11:02:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Kostas Papanikolaou",
+            "status": "doubtful"
+          },
+          {
+            "club": "DUB",
+            "player": "Davis Bertans",
+            "status": "out"
+          },
+          {
+            "club": "DUB",
+            "player": "Thomas Walkup",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-12T19:15:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 170.0,
+        "line": 170.5,
+        "odds": 1.9,
+        "side": "under"
+      },
+      "view_line": -6.0
+    },
+    {
+      "away": "ZAL",
+      "away_name": "Zalgiris",
+      "call": {
+        "handicap": {
+          "away": 1.937,
+          "home": 2.067,
+          "line": 2.0,
+          "push_chance": 0.0377
+        },
+        "moneyline": {
+          "away": 1.764,
+          "home": 2.309
+        },
+        "total": {
+          "line": 170.0,
+          "over": 2.021,
+          "push_chance": 0.0246,
+          "under": 1.979
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261111T134838Z.json",
+      "format": 2,
+      "home": "MIL",
+      "home_name": "Olimpia Milano",
+      "id": "E2026-R11-MIL-ZAL",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-11T13:48:03Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": 1.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.83,
+          "home": 1.98,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 169.5,
+          "over": 1.89,
+          "source": "Pinnacle",
+          "under": 1.91
+        }
+      },
+      "pick": {
+        "expected_close": -2.0,
+        "line": -1.5,
+        "odds": 1.9,
+        "side": "away",
+        "team": "ZAL"
+      },
+      "pinnacle": {
+        "at": "2026-11-11T13:06:56Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": 1.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-11T13:06:56Z",
+        "line": 169.5,
+        "over": 1.893,
+        "under": 1.909
+      },
+      "published_at": "2026-11-11T13:48:38Z",
+      "saved_at": "2026-11-11T13:25:13Z",
+      "sha256": "8afed44918f7effce114fe862adffe4ef85f65d5f335ead6fd24ec9ccb8ee008",
+      "team_news": {
+        "as_of": "2026-11-11T11:02:00Z",
+        "players": [
+          {
+            "club": "MIL",
+            "player": "Devin Booker",
+            "status": "out"
+          },
+          {
+            "club": "ZAL",
+            "player": "Nigel Williams-Goss",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-12T19:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 170.0
+    },
+    {
+      "away": "MUN",
+      "away_name": "Bayern Munich",
+      "call": {
+        "handicap": {
+          "away": 2.019,
+          "home": 1.981,
+          "line": -10.0,
+          "push_chance": 0.037
+        },
+        "moneyline": {
+          "away": 5.288,
+          "home": 1.233
+        },
+        "total": {
+          "line": 183.0,
+          "over": 2.008,
+          "push_chance": 0.0255,
+          "under": 1.992
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261111T134838Z.json",
+      "format": 2,
+      "home": "PAM",
+      "home_name": "Valencia Basket",
+      "id": "E2026-R11-PAM-MUN",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-11T13:48:03Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -9.5,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 4.48,
+          "home": 1.21,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 183.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.9
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-11T13:06:56Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -9.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-11T13:06:56Z",
+        "line": 183.5,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "published_at": "2026-11-11T13:48:38Z",
+      "saved_at": "2026-11-11T13:32:31Z",
+      "sha256": "8afed44918f7effce114fe862adffe4ef85f65d5f335ead6fd24ec9ccb8ee008",
+      "team_news": {
+        "as_of": "2026-11-11T11:02:00Z",
+        "players": [
+          {
+            "club": "PAM",
+            "player": "Nate Reuvers",
+            "status": "likely_out"
+          },
+          {
+            "club": "PAM",
+            "player": "Mouhamadou Gueye",
+            "status": "doubtful"
+          },
+          {
+            "club": "PAM",
+            "player": "Nikola Mirotic",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-12T19:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 183.0,
+      "view_line": -10.0
+    },
+    {
+      "away": "RED",
+      "away_name": "Crvena Zvezda",
+      "call": {
+        "handicap": {
+          "away": 2.015,
+          "home": 1.985,
+          "line": -6.5
+        },
+        "moneyline": {
+          "away": 3.547,
+          "home": 1.393
+        },
+        "total": {
+          "line": 174.5,
+          "over": 2.03,
+          "under": 1.971
+        }
+      },
+      "file": "data/euroleague/E2026/R11/calls/20261111T134838Z.json",
+      "format": 2,
+      "home": "MAD",
+      "home_name": "Real Madrid",
+      "id": "E2026-R11-MAD-RED",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-11T13:48:03Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -7.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.38,
+          "home": 1.32,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 175.0,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.9
+        }
+      },
+      "pick": {
+        "expected_close": 6.5,
+        "line": 7.0,
+        "odds": 1.9,
+        "side": "away",
+        "team": "RED"
+      },
+      "pinnacle": {
+        "at": "2026-11-11T13:06:56Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -7.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-11T13:06:56Z",
+        "line": 175.0,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "published_at": "2026-11-11T13:48:38Z",
+      "saved_at": "2026-11-11T13:43:03Z",
+      "sha256": "8afed44918f7effce114fe862adffe4ef85f65d5f335ead6fd24ec9ccb8ee008",
+      "team_news": {
+        "as_of": "2026-11-11T11:02:00Z",
+        "players": [
+          {
+            "club": "MAD",
+            "player": "Facundo Campazzo",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Mikael Jantunen",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Theo Maledon",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Chuma Okeke",
+            "status": "doubtful"
+          },
+          {
+            "club": "RED",
+            "player": "Stefan Miljenovic",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-12T20:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 174.5,
+        "line": 175.0,
+        "odds": 1.9,
+        "side": "under"
+      }
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
