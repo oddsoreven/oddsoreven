@@ -1,0 +1,80 @@
+{
+  "E2026-R11-PAR-BAS": {
+    "close": {
+      "at": "2026-11-11T19:36:57Z",
+      "away": 1.901,
+      "home": 1.943,
+      "line": -8.5,
+      "minutes_before": 8,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 66,
+      "home": 80
+    },
+    "format": 2,
+    "line": {
+      "close": -8.5,
+      "nearer_close": false,
+      "nearer_result": false,
+      "ours": -7.5,
+      "pinnacle_at_save": -8.0
+    },
+    "moneyline": {
+      "home_prob": 0.7468,
+      "home_won": true
+    },
+    "result": {
+      "margin": 14,
+      "total": 146
+    }
+  },
+  "E2026-R11-PRS-ULK": {
+    "close": {
+      "at": "2026-11-11T19:36:57Z",
+      "away": 1.952,
+      "home": 1.901,
+      "line": 5.5,
+      "minutes_before": 8,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 109,
+      "home": 111
+    },
+    "format": 2,
+    "line": {
+      "close": 5.5,
+      "nearer_close": null,
+      "nearer_result": true,
+      "ours": 5.0,
+      "pinnacle_at_save": 6.0
+    },
+    "moneyline": {
+      "home_prob": 0.3091,
+      "home_won": true
+    },
+    "pick": {
+      "close_line": 5.5,
+      "close_reached": false,
+      "clv": 0.0,
+      "outcome": "W",
+      "units": 1.02
+    },
+    "result": {
+      "margin": 2,
+      "total": 220
+    },
+    "total_close": {
+      "at": "2026-11-11T19:36:57Z",
+      "line": 175.5
+    },
+    "total_pick": {
+      "close_line": 175.5,
+      "close_reached": false,
+      "clv": -2.0,
+      "outcome": "L",
+      "units": -1.0
+    }
+  }
+}
