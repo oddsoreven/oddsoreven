@@ -916,6 +916,117 @@
       "tip_utc": "2026-11-17T20:00:00Z",
       "total_kind": "view",
       "total_view_line": 171.5
+    },
+    {
+      "away": "MAD",
+      "away_name": "Real Madrid",
+      "call": {
+        "handicap": {
+          "away": 2.009,
+          "home": 1.991,
+          "line": 6.5
+        },
+        "moneyline": {
+          "away": 1.397,
+          "home": 3.519
+        },
+        "total": {
+          "line": 181.5,
+          "over": 2.095,
+          "under": 1.913
+        }
+      },
+      "file": "data/euroleague/E2026/R12/calls/20261117T185237Z.json",
+      "format": 2,
+      "home": "BES",
+      "home_name": "Besiktas",
+      "id": "E2026-R12-BES-MAD",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-17T18:47:27Z",
+        "handicap": {
+          "away": 1.94,
+          "home": 1.91,
+          "line": 7.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 1.35,
+          "home": 3.36,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 181.0,
+          "over": 1.98,
+          "source": "Pinnacle",
+          "under": 1.88
+        }
+      },
+      "pick": {
+        "expected_close": 6.0,
+        "line": 7.0,
+        "odds": 1.91,
+        "side": "home",
+        "team": "BES"
+      },
+      "pinnacle": {
+        "at": "2026-11-17T18:47:27Z",
+        "away": 1.94,
+        "home": 1.91,
+        "line": 7.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-17T18:47:27Z",
+        "line": 181.0,
+        "over": 1.98,
+        "under": 1.88
+      },
+      "published_at": "2026-11-17T18:52:37Z",
+      "saved_at": "2026-11-17T18:49:38Z",
+      "sha256": "f98bd948d5ffa7dad8ea642738c03ef290360324efee312f869625a6d021b1d5",
+      "team_news": {
+        "as_of": "2026-11-17T15:02:00Z",
+        "players": [
+          {
+            "club": "BES",
+            "player": "Jaylen Nowell",
+            "status": "out"
+          },
+          {
+            "club": "BES",
+            "player": "Berk Ugurlu",
+            "status": "doubtful"
+          },
+          {
+            "club": "MAD",
+            "player": "Facundo Campazzo",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Mikael Jantunen",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-18T17:00:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 181.5,
+        "line": 181.0,
+        "odds": 1.98,
+        "side": "over"
+      }
     }
   ],
   "note": "Each game's call is locked in the file named next to it. Check the file against its SHA-256 and its OpenTimestamps proof (.ots); see data/ledger.csv.",
