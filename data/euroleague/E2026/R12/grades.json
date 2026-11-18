@@ -88,6 +88,54 @@
       "units": 0.85
     }
   },
+  "E2026-R12-BES-MAD": {
+    "close": {
+      "at": "2026-11-18T16:59:28Z",
+      "away": 1.952,
+      "home": 1.893,
+      "line": 7.5,
+      "minutes_before": 1,
+      "source": "Pinnacle"
+    },
+    "final": {
+      "away": 79,
+      "home": 83
+    },
+    "format": 2,
+    "line": {
+      "close": 7.5,
+      "nearer_close": false,
+      "nearer_result": true,
+      "ours": 6.5,
+      "pinnacle_at_save": 7.0
+    },
+    "moneyline": {
+      "home_prob": 0.2842,
+      "home_won": true
+    },
+    "pick": {
+      "close_line": 7.5,
+      "close_reached": false,
+      "clv": -0.5,
+      "outcome": "W",
+      "units": 0.91
+    },
+    "result": {
+      "margin": 4,
+      "total": 162
+    },
+    "total_close": {
+      "at": "2026-11-18T16:59:28Z",
+      "line": 182.5
+    },
+    "total_pick": {
+      "close_line": 182.5,
+      "close_reached": true,
+      "clv": 1.5,
+      "outcome": "L",
+      "units": -1.0
+    }
+  },
   "E2026-R12-DUB-IST": {
     "close": {
       "at": "2026-11-17T15:56:21Z",
