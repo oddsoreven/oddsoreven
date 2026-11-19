@@ -1,0 +1,455 @@
+{
+  "competition": "EuroLeague",
+  "format": 2,
+  "games": [
+    {
+      "away": "ASV",
+      "away_name": "ASVEL",
+      "call": {
+        "handicap": {
+          "away": 2.035,
+          "home": 1.966,
+          "line": -7.0,
+          "push_chance": 0.0366
+        },
+        "moneyline": {
+          "away": 3.702,
+          "home": 1.37
+        },
+        "total": {
+          "line": 176.5,
+          "over": 2.04,
+          "under": 1.962
+        }
+      },
+      "home": "IST",
+      "home_name": "Anadolu Efes",
+      "id": "E2026-R13-IST-ASV",
+      "kind": "level",
+      "market": {
+        "at": "2026-11-19T16:26:03Z",
+        "handicap": {
+          "away": 1.89,
+          "home": 1.91,
+          "line": -7.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 3.34,
+          "home": 1.33,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 176.0,
+          "over": 1.91,
+          "source": "Pinnacle",
+          "under": 1.89
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-19T15:51:03Z",
+        "away": 1.893,
+        "home": 1.909,
+        "line": -7.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-19T15:51:03Z",
+        "line": 176.0,
+        "over": 1.909,
+        "under": 1.893
+      },
+      "saved_at": "2026-11-19T16:09:34Z",
+      "team_news": {
+        "as_of": "2026-11-19T15:15:00Z",
+        "players": [
+          {
+            "club": "IST",
+            "player": "Bruno Fernando",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "Isaia Cordinier",
+            "status": "out"
+          },
+          {
+            "club": "IST",
+            "player": "Mike James",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Joel Bolomboy",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Juhann Begarin",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Lorenz Sanz",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Myles Cale",
+            "status": "out"
+          },
+          {
+            "club": "ASV",
+            "player": "Yves Pons",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-20T17:30:00Z",
+      "total_kind": "view",
+      "total_view_line": 176.5
+    },
+    {
+      "away": "MAD",
+      "away_name": "Real Madrid",
+      "call": {
+        "handicap": {
+          "away": 2.066,
+          "home": 1.938,
+          "line": -2.5
+        },
+        "moneyline": {
+          "away": 2.426,
+          "home": 1.701
+        },
+        "total": {
+          "line": 174.5,
+          "over": 2.021,
+          "under": 1.979
+        }
+      },
+      "home": "OLY",
+      "home_name": "Olympiacos",
+      "id": "E2026-R13-OLY-MAD",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-19T16:26:03Z",
+        "handicap": {
+          "away": 1.91,
+          "home": 1.89,
+          "line": -2.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.07,
+          "home": 1.76,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 174.5,
+          "over": 1.84,
+          "source": "Pinnacle",
+          "under": 1.97
+        }
+      },
+      "pick": {
+        "expected_close": -2.5,
+        "line": -2.0,
+        "odds": 1.89,
+        "side": "home",
+        "team": "OLY"
+      },
+      "pinnacle": {
+        "at": "2026-11-19T16:22:18Z",
+        "away": 1.909,
+        "home": 1.893,
+        "line": -2.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-19T16:22:18Z",
+        "line": 175.0,
+        "over": 1.885,
+        "under": 1.917
+      },
+      "saved_at": "2026-11-19T16:22:38Z",
+      "team_news": {
+        "as_of": "2026-11-19T15:15:00Z",
+        "players": [
+          {
+            "club": "OLY",
+            "player": "Jean Montero",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyler Dorsey",
+            "status": "out"
+          },
+          {
+            "club": "OLY",
+            "player": "Nikola Milutinov",
+            "status": "doubtful"
+          },
+          {
+            "club": "OLY",
+            "player": "Tyrique Jones",
+            "status": "doubtful"
+          },
+          {
+            "club": "MAD",
+            "player": "Facundo Campazzo",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Gabriel Deck",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Mikael Jantunen",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Usman Garuba",
+            "status": "out"
+          },
+          {
+            "club": "MAD",
+            "player": "Eli Ndiaye",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-20T19:15:00Z",
+      "total_kind": "view",
+      "total_view_line": 174.5
+    },
+    {
+      "away": "RED",
+      "away_name": "Crvena Zvezda",
+      "call": {
+        "handicap": {
+          "away": 2.081,
+          "home": 1.925,
+          "line": -2.0,
+          "push_chance": 0.0393
+        },
+        "moneyline": {
+          "away": 2.339,
+          "home": 1.747
+        },
+        "total": {
+          "line": 171.5,
+          "over": 2.78,
+          "rebuilt_at_publish": true,
+          "under": 1.562
+        }
+      },
+      "home": "BAR",
+      "home_name": "Barcelona",
+      "id": "E2026-R13-BAR-RED",
+      "kind": "view",
+      "market": {
+        "at": "2026-11-19T16:26:03Z",
+        "handicap": {
+          "away": 1.99,
+          "home": 1.83,
+          "line": -2.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.2,
+          "home": 1.68,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 172.0,
+          "over": 1.85,
+          "source": "Pinnacle",
+          "under": 1.96
+        }
+      },
+      "pinnacle": {
+        "at": "2026-11-19T16:16:03Z",
+        "away": 1.909,
+        "home": 1.885,
+        "line": -2.5
+      },
+      "pinnacle_total": {
+        "at": "2026-11-19T16:16:03Z",
+        "line": 172.5,
+        "over": 1.893,
+        "under": 1.909
+      },
+      "saved_at": "2026-11-19T16:17:14Z",
+      "team_news": {
+        "as_of": "2026-11-19T15:15:00Z",
+        "players": [
+          {
+            "club": "BAR",
+            "player": "Kevin Punter",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Tosan Evbuomwan",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Umoja Gibson",
+            "status": "out"
+          },
+          {
+            "club": "BAR",
+            "player": "Yoan Makoundou",
+            "status": "likely_out"
+          },
+          {
+            "club": "BAR",
+            "player": "Juan Nunez",
+            "status": "doubtful"
+          },
+          {
+            "club": "BAR",
+            "player": "Killian Hayes",
+            "status": "doubtful"
+          },
+          {
+            "club": "RED",
+            "player": "Chima Moneke",
+            "status": "out"
+          },
+          {
+            "club": "RED",
+            "player": "Stefan Miljenovic",
+            "status": "out"
+          },
+          {
+            "club": "RED",
+            "player": "David Kramer",
+            "status": "doubtful"
+          },
+          {
+            "club": "RED",
+            "player": "Jared Butler",
+            "status": "doubtful"
+          },
+          {
+            "club": "RED",
+            "player": "Johnathan Motley",
+            "status": "doubtful"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-20T19:30:00Z",
+      "total_kind": "pick",
+      "total_pick": {
+        "expected_close": 171.0,
+        "line": 172.0,
+        "odds": 1.96,
+        "side": "under"
+      },
+      "view_line": -2.0
+    },
+    {
+      "away": "BES",
+      "away_name": "Besiktas",
+      "call": {
+        "handicap": {
+          "away": 2.053,
+          "home": 1.949,
+          "line": -4.5
+        },
+        "moneyline": {
+          "away": 2.885,
+          "home": 1.53
+        },
+        "total": {
+          "line": 166.0,
+          "over": 2.028,
+          "push_chance": 0.0241,
+          "under": 1.973
+        }
+      },
+      "home": "PAR",
+      "home_name": "Partizan",
+      "id": "E2026-R13-PAR-BES",
+      "kind": "pick",
+      "market": {
+        "at": "2026-11-19T16:26:03Z",
+        "handicap": {
+          "away": 1.9,
+          "home": 1.9,
+          "line": -5.0,
+          "source": "Pinnacle"
+        },
+        "moneyline": {
+          "away": 2.8,
+          "home": 1.44,
+          "source": "Pinnacle"
+        },
+        "total": {
+          "line": 166.5,
+          "over": 1.9,
+          "source": "Pinnacle",
+          "under": 1.9
+        }
+      },
+      "pick": {
+        "expected_close": 4.5,
+        "line": 5.0,
+        "odds": 1.9,
+        "side": "away",
+        "team": "BES"
+      },
+      "pinnacle": {
+        "at": "2026-11-19T16:22:18Z",
+        "away": 1.901,
+        "home": 1.901,
+        "line": -5.0
+      },
+      "pinnacle_total": {
+        "at": "2026-11-19T16:22:18Z",
+        "line": 166.5,
+        "over": 1.901,
+        "under": 1.901
+      },
+      "saved_at": "2026-11-19T16:25:37Z",
+      "team_news": {
+        "as_of": "2026-11-19T15:15:00Z",
+        "players": [
+          {
+            "club": "PAR",
+            "player": "Derek Willis",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Ethan Thompson",
+            "status": "out"
+          },
+          {
+            "club": "PAR",
+            "player": "Kevarrius Hayes",
+            "status": "doubtful"
+          },
+          {
+            "club": "BES",
+            "player": "Jaylen Nowell",
+            "status": "out"
+          }
+        ]
+      },
+      "tip_utc": "2026-11-20T19:45:00Z",
+      "total_kind": "view",
+      "total_view_line": 166.0
+    }
+  ],
+  "published_at": "2026-11-19T16:29:31Z",
+  "round": 13,
+  "season": "E2026",
+  "stage": "early",
+  "terms": "Fair odds, no margin. Handicap from the home side (home favourite minus); a pick's line is from its own side. A pick is at Pinnacle's line when we priced the game; the expected close is the least we expect Pinnacle's closing line to have moved our way. A push on a whole-number line is void. Totals (from round 6): a total pick is at Pinnacle's total when we priced the game, over or under; its expected close is the least we expect Pinnacle's closing total to have moved our way. Market at publishing: The Odds API, Pinnacle or European consensus. Team news: the OUT, likely out and doubtful players our line was made with."
+}
